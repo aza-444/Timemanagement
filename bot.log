@@ -1,0 +1,1171 @@
+2026-08-11 14:17:10,107 - [INFO] - root - Initializing database...
+2026-08-11 14:17:10,111 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:17:10,123 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:17:10,123 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:17:10,123 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:17:10,123 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:17:10,660 - [INFO] - root - Bot started successfully! Username: @azizbe_ai_bot (ID: 7414084353)
+2026-08-11 14:17:10,660 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:17:10,778 - [INFO] - aiogram.dispatcher - Run polling for bot @azizbe_ai_bot id=7414084353 - 'AI_BOT'
+2026-08-11 14:17:14,982 - [ERROR] - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-08-11 14:17:14,983 - [WARNING] - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7414084353)
+2026-08-11 14:17:20,559 - [ERROR] - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-08-11 14:17:20,559 - [WARNING] - aiogram.dispatcher - Sleep for 1.220662 seconds and try again... (tryings = 1, bot id = 7414084353)
+2026-08-11 14:17:24,033 - [WARNING] - aiogram.dispatcher - Received SIGINT signal
+2026-08-11 14:17:24,035 - [INFO] - aiogram.dispatcher - Polling stopped for bot @azizbe_ai_bot id=7414084353 - 'AI_BOT'
+2026-08-11 14:17:24,036 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:17:24,036 - [INFO] - root - Shutting down bot...
+2026-08-11 14:17:24,037 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:17:24,288 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:17:54,889 - [INFO] - root - Initializing database...
+2026-08-11 14:17:54,893 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:17:54,908 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:17:54,910 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:17:54,911 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:17:54,911 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:17:55,909 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:17:55,910 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:17:56,103 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:18:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:19:00 CDT)" (scheduled at 2026-08-11 14:18:00-05:00)
+2026-08-11 14:18:00,017 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:19:00 CDT)" executed successfully
+2026-08-11 14:18:18,645 - [INFO] - aiogram.event - Update id=494105534 is handled. Duration 523 ms by bot id=8574907694
+2026-08-11 14:18:23,833 - [INFO] - aiogram.event - Update id=494105535 is handled. Duration 149 ms by bot id=8574907694
+2026-08-11 14:18:26,428 - [INFO] - aiogram.event - Update id=494105536 is handled. Duration 421 ms by bot id=8574907694
+2026-08-11 14:18:28,975 - [INFO] - aiogram.event - Update id=494105537 is handled. Duration 197 ms by bot id=8574907694
+2026-08-11 14:18:30,919 - [INFO] - aiogram.event - Update id=494105538 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 14:18:36,785 - [INFO] - aiogram.event - Update id=494105539 is handled. Duration 231 ms by bot id=8574907694
+2026-08-11 14:18:40,095 - [INFO] - aiogram.event - Update id=494105540 is handled. Duration 164 ms by bot id=8574907694
+2026-08-11 14:18:46,077 - [INFO] - aiogram.event - Update id=494105541 is handled. Duration 612 ms by bot id=8574907694
+2026-08-11 14:19:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:20:00 CDT)" (scheduled at 2026-08-11 14:19:00-05:00)
+2026-08-11 14:19:00,007 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:20:00 CDT)" executed successfully
+2026-08-11 14:19:04,335 - [INFO] - aiogram.event - Update id=494105542 is handled. Duration 1054 ms by bot id=8574907694
+2026-08-11 14:19:07,015 - [INFO] - aiogram.event - Update id=494105543 is handled. Duration 156 ms by bot id=8574907694
+2026-08-11 14:19:08,974 - [INFO] - aiogram.event - Update id=494105544 is handled. Duration 314 ms by bot id=8574907694
+2026-08-11 14:19:15,772 - [INFO] - aiogram.event - Update id=494105545 is handled. Duration 164 ms by bot id=8574907694
+2026-08-11 14:19:17,366 - [INFO] - matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-11 14:19:17,368 - [INFO] - matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-11 14:19:19,773 - [INFO] - aiogram.event - Update id=494105546 is handled. Duration 2665 ms by bot id=8574907694
+2026-08-11 14:20:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:21:00 CDT)" (scheduled at 2026-08-11 14:20:00-05:00)
+2026-08-11 14:20:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:21:00 CDT)" executed successfully
+2026-08-11 14:20:19,054 - [INFO] - aiogram.event - Update id=494105547 is handled. Duration 201 ms by bot id=8574907694
+2026-08-11 14:20:27,555 - [INFO] - aiogram.event - Update id=494105548 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 14:20:30,936 - [INFO] - aiogram.event - Update id=494105549 is handled. Duration 197 ms by bot id=8574907694
+2026-08-11 14:20:36,492 - [INFO] - aiogram.event - Update id=494105550 is handled. Duration 171 ms by bot id=8574907694
+2026-08-11 14:21:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:22:00 CDT)" (scheduled at 2026-08-11 14:21:00-05:00)
+2026-08-11 14:21:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:22:00 CDT)" executed successfully
+2026-08-11 14:22:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:23:00 CDT)" (scheduled at 2026-08-11 14:22:00-05:00)
+2026-08-11 14:22:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:23:00 CDT)" executed successfully
+2026-08-11 14:23:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:24:00 CDT)" (scheduled at 2026-08-11 14:23:00-05:00)
+2026-08-11 14:23:00,004 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:24:00 CDT)" executed successfully
+2026-08-11 14:24:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:25:00 CDT)" (scheduled at 2026-08-11 14:24:00-05:00)
+2026-08-11 14:24:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:25:00 CDT)" executed successfully
+2026-08-11 14:25:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:26:00 CDT)" (scheduled at 2026-08-11 14:25:00-05:00)
+2026-08-11 14:25:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:26:00 CDT)" executed successfully
+2026-08-11 14:25:59,481 - [WARNING] - aiogram.dispatcher - Received SIGINT signal
+2026-08-11 14:25:59,483 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:25:59,484 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:25:59,484 - [INFO] - root - Shutting down bot...
+2026-08-11 14:25:59,486 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:25:59,737 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:26:10,855 - [INFO] - root - Initializing database...
+2026-08-11 14:26:10,864 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:26:10,879 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:26:10,879 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:26:10,879 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:26:10,879 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:26:11,413 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:26:11,414 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:26:11,623 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:27:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:28:00 CDT)" (scheduled at 2026-08-11 14:27:00-05:00)
+2026-08-11 14:27:00,020 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:28:00 CDT)" executed successfully
+2026-08-11 14:27:30,634 - [WARNING] - aiogram.dispatcher - Received SIGINT signal
+2026-08-11 14:27:30,638 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:27:30,639 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:27:30,640 - [INFO] - root - Shutting down bot...
+2026-08-11 14:27:30,641 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:27:30,893 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:27:37,595 - [INFO] - root - Initializing database...
+2026-08-11 14:27:37,607 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:27:37,632 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:27:37,633 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:27:37,634 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:27:37,635 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:27:38,256 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:27:38,441 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:27:38,442 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:27:38,666 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:27:49,622 - [INFO] - aiogram.event - Update id=494105551 is handled. Duration 642 ms by bot id=8574907694
+2026-08-11 14:27:51,466 - [INFO] - aiogram.event - Update id=494105552 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 14:27:53,513 - [INFO] - aiogram.event - Update id=494105553 is handled. Duration 400 ms by bot id=8574907694
+2026-08-11 14:28:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:29:00 CDT)" (scheduled at 2026-08-11 14:28:00-05:00)
+2026-08-11 14:28:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:29:00 CDT)" executed successfully
+2026-08-11 14:28:04,454 - [INFO] - aiogram.event - Update id=494105554 is handled. Duration 170 ms by bot id=8574907694
+2026-08-11 14:28:13,734 - [INFO] - aiogram.event - Update id=494105555 is handled. Duration 164 ms by bot id=8574907694
+2026-08-11 14:28:21,475 - [INFO] - aiogram.event - Update id=494105556 is handled. Duration 147 ms by bot id=8574907694
+2026-08-11 14:28:24,864 - [INFO] - aiogram.event - Update id=494105557 is handled. Duration 223 ms by bot id=8574907694
+2026-08-11 14:29:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:30:00 CDT)" (scheduled at 2026-08-11 14:29:00-05:00)
+2026-08-11 14:29:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:30:00 CDT)" executed successfully
+2026-08-11 14:29:56,896 - [WARNING] - aiogram.dispatcher - Received SIGINT signal
+2026-08-11 14:29:56,898 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:29:56,899 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:29:56,900 - [INFO] - root - Shutting down bot...
+2026-08-11 14:29:57,110 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:29:57,112 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:29:57,363 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:30:05,322 - [INFO] - root - Initializing database...
+2026-08-11 14:30:05,331 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:30:05,354 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:30:05,354 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:30:05,354 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:30:05,355 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:30:05,923 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:30:06,123 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:30:06,125 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:30:06,295 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:30:09,659 - [INFO] - aiogram.event - Update id=494105558 is handled. Duration 545 ms by bot id=8574907694
+2026-08-11 14:30:11,552 - [INFO] - aiogram.event - Update id=494105559 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 14:30:13,803 - [INFO] - aiogram.event - Update id=494105560 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 14:30:22,814 - [INFO] - aiogram.event - Update id=494105561 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 14:30:39,300 - [INFO] - aiogram.event - Update id=494105562 is handled. Duration 198 ms by bot id=8574907694
+2026-08-11 14:30:41,391 - [INFO] - aiogram.event - Update id=494105563 is handled. Duration 452 ms by bot id=8574907694
+2026-08-11 14:30:44,533 - [INFO] - aiogram.event - Update id=494105564 is handled. Duration 419 ms by bot id=8574907694
+2026-08-11 14:30:55,184 - [INFO] - aiogram.event - Update id=494105565 is not handled. Duration 5 ms by bot id=8574907694
+2026-08-11 14:31:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:32:00 CDT)" (scheduled at 2026-08-11 14:31:00-05:00)
+2026-08-11 14:31:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:32:00 CDT)" executed successfully
+2026-08-11 14:31:03,187 - [INFO] - aiogram.event - Update id=494105566 is handled. Duration 189 ms by bot id=8574907694
+2026-08-11 14:31:05,620 - [INFO] - aiogram.event - Update id=494105567 is handled. Duration 338 ms by bot id=8574907694
+2026-08-11 14:31:11,660 - [INFO] - aiogram.event - Update id=494105568 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 14:31:20,057 - [INFO] - aiogram.event - Update id=494105569 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 14:31:22,255 - [INFO] - aiogram.event - Update id=494105570 is handled. Duration 353 ms by bot id=8574907694
+2026-08-11 14:31:26,114 - [INFO] - aiogram.event - Update id=494105571 is handled. Duration 322 ms by bot id=8574907694
+2026-08-11 14:31:38,695 - [INFO] - aiogram.event - Update id=494105572 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 14:31:43,405 - [INFO] - aiogram.event - Update id=494105573 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 14:31:57,690 - [INFO] - aiogram.event - Update id=494105574 is handled. Duration 154 ms by bot id=8574907694
+2026-08-11 14:32:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:33:00 CDT)" (scheduled at 2026-08-11 14:32:00-05:00)
+2026-08-11 14:32:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:33:00 CDT)" executed successfully
+2026-08-11 14:32:02,677 - [INFO] - aiogram.event - Update id=494105575 is handled. Duration 162 ms by bot id=8574907694
+2026-08-11 14:32:04,499 - [INFO] - aiogram.event - Update id=494105576 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 14:32:06,660 - [INFO] - aiogram.event - Update id=494105577 is handled. Duration 316 ms by bot id=8574907694
+2026-08-11 14:32:08,491 - [INFO] - aiogram.event - Update id=494105578 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 14:33:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:34:00 CDT)" (scheduled at 2026-08-11 14:33:00-05:00)
+2026-08-11 14:33:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:34:00 CDT)" executed successfully
+2026-08-11 14:34:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:35:00 CDT)" (scheduled at 2026-08-11 14:34:00-05:00)
+2026-08-11 14:34:00,015 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:35:00 CDT)" executed successfully
+2026-08-11 14:34:32,561 - [INFO] - aiogram.event - Update id=494105579 is handled. Duration 150 ms by bot id=8574907694
+2026-08-11 14:34:36,783 - [INFO] - aiogram.event - Update id=494105580 is handled. Duration 2566 ms by bot id=8574907694
+2026-08-11 14:35:00,007 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:36:00 CDT)" (scheduled at 2026-08-11 14:35:00-05:00)
+2026-08-11 14:35:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:36:00 CDT)" executed successfully
+2026-08-11 14:35:06,919 - [WARNING] - aiogram.dispatcher - Received SIGINT signal
+2026-08-11 14:35:06,922 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:35:06,923 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:35:06,924 - [INFO] - root - Shutting down bot...
+2026-08-11 14:35:07,087 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:35:07,089 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:35:07,341 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:35:14,924 - [INFO] - root - Initializing database...
+2026-08-11 14:35:14,932 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:35:14,951 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:35:14,952 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:35:14,953 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:35:14,953 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:35:15,584 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:35:15,792 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:35:15,793 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:35:15,992 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:35:30,749 - [INFO] - aiogram.event - Update id=494105581 is not handled. Duration 11 ms by bot id=8574907694
+2026-08-11 14:36:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:37:00 CDT)" (scheduled at 2026-08-11 14:36:00-05:00)
+2026-08-11 14:36:00,014 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:37:00 CDT)" executed successfully
+2026-08-11 14:37:00,007 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:38:00 CDT)" (scheduled at 2026-08-11 14:37:00-05:00)
+2026-08-11 14:37:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:38:00 CDT)" executed successfully
+2026-08-11 14:38:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:39:00 CDT)" (scheduled at 2026-08-11 14:38:00-05:00)
+2026-08-11 14:38:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:39:00 CDT)" executed successfully
+2026-08-11 14:39:00,007 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:40:00 CDT)" (scheduled at 2026-08-11 14:39:00-05:00)
+2026-08-11 14:39:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:40:00 CDT)" executed successfully
+2026-08-11 14:39:35,745 - [WARNING] - aiogram.dispatcher - Received SIGINT signal
+2026-08-11 14:39:35,747 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:39:35,748 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:39:35,749 - [INFO] - root - Shutting down bot...
+2026-08-11 14:39:36,155 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:39:36,156 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:39:36,408 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:39:43,674 - [INFO] - root - Initializing database...
+2026-08-11 14:39:43,681 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:39:43,699 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:39:43,700 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:39:43,700 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:39:43,700 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:39:44,274 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:39:44,512 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:39:44,512 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:39:44,685 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:39:54,005 - [INFO] - aiogram.event - Update id=494105582 is handled. Duration 602 ms by bot id=8574907694
+2026-08-11 14:39:59,030 - [INFO] - aiogram.event - Update id=494105583 is handled. Duration 354 ms by bot id=8574907694
+2026-08-11 14:40:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:41:00 CDT)" (scheduled at 2026-08-11 14:40:00-05:00)
+2026-08-11 14:40:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:41:00 CDT)" executed successfully
+2026-08-11 14:40:33,222 - [INFO] - aiogram.event - Update id=494105584 is handled. Duration 2 ms by bot id=8574907694
+2026-08-11 14:40:59,336 - [INFO] - aiogram.event - Update id=494105585 is handled. Duration 2 ms by bot id=8574907694
+2026-08-11 14:41:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:42:00 CDT)" (scheduled at 2026-08-11 14:41:00-05:00)
+2026-08-11 14:41:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:42:00 CDT)" executed successfully
+2026-08-11 14:41:00,770 - [INFO] - aiogram.event - Update id=494105586 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:41:02,320 - [INFO] - aiogram.event - Update id=494105587 is handled. Duration 200 ms by bot id=8574907694
+2026-08-11 14:41:04,349 - [INFO] - aiogram.event - Update id=494105588 is handled. Duration 183 ms by bot id=8574907694
+2026-08-11 14:41:05,988 - [INFO] - aiogram.event - Update id=494105589 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 14:41:10,689 - [INFO] - aiogram.event - Update id=494105590 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 14:41:22,780 - [INFO] - aiogram.event - Update id=494105591 is handled. Duration 377 ms by bot id=8574907694
+2026-08-11 14:41:25,546 - [INFO] - aiogram.event - Update id=494105592 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 14:41:33,328 - [INFO] - aiogram.event - Update id=494105593 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 14:41:35,378 - [INFO] - aiogram.event - Update id=494105594 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 14:42:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:43:00 CDT)" (scheduled at 2026-08-11 14:42:00-05:00)
+2026-08-11 14:42:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:43:00 CDT)" executed successfully
+2026-08-11 14:42:15,413 - [INFO] - aiogram.event - Update id=494105595 is handled. Duration 281 ms by bot id=8574907694
+2026-08-11 14:42:20,643 - [INFO] - aiogram.event - Update id=494105596 is handled. Duration 3590 ms by bot id=8574907694
+2026-08-11 14:42:21,006 - [INFO] - aiogram.event - Update id=494105597 is handled. Duration 223 ms by bot id=8574907694
+2026-08-11 14:42:31,185 - [INFO] - aiogram.event - Update id=494105598 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 14:43:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:44:00 CDT)" (scheduled at 2026-08-11 14:43:00-05:00)
+2026-08-11 14:43:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:44:00 CDT)" executed successfully
+2026-08-11 14:44:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:45:00 CDT)" (scheduled at 2026-08-11 14:44:00-05:00)
+2026-08-11 14:44:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:45:00 CDT)" executed successfully
+2026-08-11 14:45:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:46:00 CDT)" (scheduled at 2026-08-11 14:45:00-05:00)
+2026-08-11 14:45:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:46:00 CDT)" executed successfully
+2026-08-11 14:46:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:47:00 CDT)" (scheduled at 2026-08-11 14:46:00-05:00)
+2026-08-11 14:46:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:47:00 CDT)" executed successfully
+2026-08-11 14:46:38,196 - [WARNING] - aiogram.dispatcher - Received SIGTERM signal
+2026-08-11 14:46:38,197 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:46:38,198 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:46:38,199 - [INFO] - root - Shutting down bot...
+2026-08-11 14:46:38,351 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:46:38,352 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:46:38,603 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:47:29,642 - [INFO] - root - Initializing database...
+2026-08-11 14:47:29,648 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:47:29,664 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:47:29,665 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:47:29,665 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:47:29,665 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:47:30,395 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:47:30,607 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:47:30,608 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:47:30,797 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:48:00,007 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:49:00 CDT)" (scheduled at 2026-08-11 14:48:00-05:00)
+2026-08-11 14:48:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:49:00 CDT)" executed successfully
+2026-08-11 14:48:13,047 - [INFO] - aiogram.event - Update id=494105599 is handled. Duration 2 ms by bot id=8574907694
+2026-08-11 14:48:25,592 - [INFO] - aiogram.event - Update id=494105600 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:49:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:50:00 CDT)" (scheduled at 2026-08-11 14:49:00-05:00)
+2026-08-11 14:49:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:50:00 CDT)" executed successfully
+2026-08-11 14:49:08,860 - [INFO] - aiogram.event - Update id=494105601 is handled. Duration 2 ms by bot id=8574907694
+2026-08-11 14:49:11,765 - [INFO] - aiogram.event - Update id=494105602 is handled. Duration 583 ms by bot id=8574907694
+2026-08-11 14:49:16,187 - [INFO] - aiogram.event - Update id=494105603 is handled. Duration 2 ms by bot id=8574907694
+2026-08-11 14:50:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:51:00 CDT)" (scheduled at 2026-08-11 14:50:00-05:00)
+2026-08-11 14:50:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:51:00 CDT)" executed successfully
+2026-08-11 14:50:38,751 - [INFO] - root - Initializing database...
+2026-08-11 14:50:38,758 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:50:38,772 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:50:38,772 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:50:38,772 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:50:38,772 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:50:39,361 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:50:39,362 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:50:39,522 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:50:39,943 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:50:44,816 - [INFO] - aiogram.event - Update id=494105604 is handled. Duration 1 ms by bot id=8574907694
+2026-08-11 14:50:56,114 - [INFO] - aiogram.event - Update id=494105605 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:50:57,446 - [INFO] - aiogram.event - Update id=494105606 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:51:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:52:00 CDT)" (scheduled at 2026-08-11 14:51:00-05:00)
+2026-08-11 14:51:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:52:00 CDT)" executed successfully
+2026-08-11 14:51:01,453 - [INFO] - aiogram.event - Update id=494105607 is handled. Duration 1 ms by bot id=8574907694
+2026-08-11 14:51:46,278 - [INFO] - aiogram.event - Update id=494105608 is handled. Duration 1 ms by bot id=8574907694
+2026-08-11 14:52:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:53:00 CDT)" (scheduled at 2026-08-11 14:52:00-05:00)
+2026-08-11 14:52:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:53:00 CDT)" executed successfully
+2026-08-11 14:52:26,288 - [INFO] - root - Initializing database...
+2026-08-11 14:52:26,299 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:52:26,317 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:52:26,318 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:52:26,318 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:52:26,319 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:52:27,060 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:52:27,060 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:52:27,251 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:52:27,489 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:52:30,646 - [INFO] - aiogram.event - Update id=494105609 is handled. Duration 1 ms by bot id=8574907694
+2026-08-11 14:52:40,767 - [INFO] - aiogram.event - Update id=494105610 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:52:45,477 - [INFO] - aiogram.event - Update id=494105611 is handled. Duration 4 ms by bot id=8574907694
+2026-08-11 14:52:46,107 - [INFO] - aiogram.event - Update id=494105612 is handled. Duration 2 ms by bot id=8574907694
+2026-08-11 14:52:46,714 - [INFO] - aiogram.event - Update id=494105613 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:52:47,754 - [INFO] - aiogram.event - Update id=494105614 is handled. Duration 177 ms by bot id=8574907694
+2026-08-11 14:52:50,291 - [INFO] - aiogram.event - Update id=494105615 is handled. Duration 413 ms by bot id=8574907694
+2026-08-11 14:53:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:54:00 CDT)" (scheduled at 2026-08-11 14:53:00-05:00)
+2026-08-11 14:53:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:54:00 CDT)" executed successfully
+2026-08-11 14:53:08,524 - [INFO] - aiogram.event - Update id=494105616 is handled. Duration 3 ms by bot id=8574907694
+2026-08-11 14:53:11,694 - [INFO] - aiogram.event - Update id=494105617 is handled. Duration 210 ms by bot id=8574907694
+2026-08-11 14:53:12,928 - [INFO] - aiogram.event - Update id=494105618 is handled. Duration 1 ms by bot id=8574907694
+2026-08-11 14:53:49,788 - [WARNING] - aiogram.dispatcher - Received SIGTERM signal
+2026-08-11 14:53:49,789 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:53:49,790 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 14:53:49,790 - [INFO] - root - Shutting down bot...
+2026-08-11 14:53:49,983 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:53:49,983 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 14:53:50,234 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 14:53:56,559 - [INFO] - root - Initializing database...
+2026-08-11 14:53:56,566 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:53:56,588 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:53:56,589 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:53:56,590 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:53:56,590 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:53:57,342 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:53:57,343 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:53:57,466 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:53:57,772 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:54:08,545 - [INFO] - root - Initializing database...
+2026-08-11 14:54:08,551 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 14:54:08,565 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 14:54:08,566 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 14:54:08,566 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 14:54:08,566 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 14:54:09,248 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 14:54:09,248 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 14:54:09,439 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 14:54:09,831 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 14:54:10,263 - [INFO] - aiogram.event - Update id=494105620 is handled. Duration 592 ms by bot id=8574907694
+2026-08-11 14:54:10,271 - [INFO] - aiogram.event - Update id=494105619 is handled. Duration 603 ms by bot id=8574907694
+2026-08-11 14:54:17,020 - [INFO] - aiogram.event - Update id=494105621 is handled. Duration 282 ms by bot id=8574907694
+2026-08-11 14:54:25,937 - [INFO] - aiogram.event - Update id=494105622 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 14:54:27,889 - [INFO] - aiogram.event - Update id=494105623 is handled. Duration 418 ms by bot id=8574907694
+2026-08-11 14:54:43,334 - [INFO] - aiogram.event - Update id=494105624 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 14:54:45,185 - [INFO] - aiogram.event - Update id=494105625 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 14:54:47,849 - [INFO] - aiogram.event - Update id=494105626 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 14:54:49,787 - [INFO] - aiogram.event - Update id=494105627 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 14:55:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:56:00 CDT)" (scheduled at 2026-08-11 14:55:00-05:00)
+2026-08-11 14:55:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:56:00 CDT)" executed successfully
+2026-08-11 14:55:30,660 - [INFO] - aiogram.event - Update id=494105628 is handled. Duration 235 ms by bot id=8574907694
+2026-08-11 14:55:35,156 - [INFO] - aiogram.event - Update id=494105629 is handled. Duration 414 ms by bot id=8574907694
+2026-08-11 14:55:57,580 - [INFO] - aiogram.event - Update id=494105630 is handled. Duration 203 ms by bot id=8574907694
+2026-08-11 14:56:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:57:00 CDT)" (scheduled at 2026-08-11 14:56:00-05:00)
+2026-08-11 14:56:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:57:00 CDT)" executed successfully
+2026-08-11 14:56:00,517 - [INFO] - aiogram.event - Update id=494105631 is handled. Duration 291 ms by bot id=8574907694
+2026-08-11 14:56:09,953 - [INFO] - aiogram.event - Update id=494105632 is handled. Duration 152 ms by bot id=8574907694
+2026-08-11 14:56:13,718 - [INFO] - aiogram.event - Update id=494105634 is handled. Duration 577 ms by bot id=8574907694
+2026-08-11 14:56:14,476 - [INFO] - aiogram.event - Update id=494105633 is handled. Duration 2973 ms by bot id=8574907694
+2026-08-11 14:56:18,274 - [INFO] - aiogram.event - Update id=494105635 is handled. Duration 422 ms by bot id=8574907694
+2026-08-11 14:57:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:58:00 CDT)" (scheduled at 2026-08-11 14:57:00-05:00)
+2026-08-11 14:57:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:58:00 CDT)" executed successfully
+2026-08-11 14:57:01,077 - [INFO] - aiogram.event - Update id=494105636 is handled. Duration 417 ms by bot id=8574907694
+2026-08-11 14:57:03,725 - [INFO] - aiogram.event - Update id=494105637 is handled. Duration 203 ms by bot id=8574907694
+2026-08-11 14:57:05,530 - [INFO] - aiogram.event - Update id=494105638 is handled. Duration 370 ms by bot id=8574907694
+2026-08-11 14:58:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:59:00 CDT)" (scheduled at 2026-08-11 14:58:00-05:00)
+2026-08-11 14:58:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 14:59:00 CDT)" executed successfully
+2026-08-11 14:59:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:00:00 CDT)" (scheduled at 2026-08-11 14:59:00-05:00)
+2026-08-11 14:59:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:00:00 CDT)" executed successfully
+2026-08-11 15:00:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:01:00 CDT)" (scheduled at 2026-08-11 15:00:00-05:00)
+2026-08-11 15:00:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:01:00 CDT)" executed successfully
+2026-08-11 15:00:45,573 - [INFO] - root - Initializing database...
+2026-08-11 15:00:45,573 - [INFO] - root - Initializing database...
+2026-08-11 15:00:45,583 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:00:45,583 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:00:45,599 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:00:45,599 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:00:45,600 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:00:45,600 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:00:45,600 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:00:45,600 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:00:45,600 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:00:45,600 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:00:46,084 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:00:46,084 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:00:46,084 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:00:46,084 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:00:46,198 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:00:46,198 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:00:48,000 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:00:48,000 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:01:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:02:00 CDT)" (scheduled at 2026-08-11 15:01:00-05:00)
+2026-08-11 15:01:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:02:00 CDT)" (scheduled at 2026-08-11 15:01:00-05:00)
+2026-08-11 15:01:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:02:00 CDT)" executed successfully
+2026-08-11 15:01:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:02:00 CDT)" executed successfully
+2026-08-11 15:01:34,171 - [INFO] - aiogram.event - Update id=494105639 is handled. Duration 207 ms by bot id=8574907694
+2026-08-11 15:01:34,171 - [INFO] - aiogram.event - Update id=494105639 is handled. Duration 207 ms by bot id=8574907694
+2026-08-11 15:01:41,641 - [INFO] - aiogram.event - Update id=494105640 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 15:01:41,641 - [INFO] - aiogram.event - Update id=494105640 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 15:02:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:03:00 CDT)" (scheduled at 2026-08-11 15:02:00-05:00)
+2026-08-11 15:02:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:03:00 CDT)" (scheduled at 2026-08-11 15:02:00-05:00)
+2026-08-11 15:02:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:03:00 CDT)" executed successfully
+2026-08-11 15:02:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:03:00 CDT)" executed successfully
+2026-08-11 15:02:13,390 - [INFO] - aiogram.event - Update id=494105641 is handled. Duration 222 ms by bot id=8574907694
+2026-08-11 15:02:13,390 - [INFO] - aiogram.event - Update id=494105641 is handled. Duration 222 ms by bot id=8574907694
+2026-08-11 15:02:15,447 - [INFO] - aiogram.event - Update id=494105642 is handled. Duration 424 ms by bot id=8574907694
+2026-08-11 15:02:15,447 - [INFO] - aiogram.event - Update id=494105642 is handled. Duration 424 ms by bot id=8574907694
+2026-08-11 15:02:22,396 - [INFO] - aiogram.event - Update id=494105643 is handled. Duration 294 ms by bot id=8574907694
+2026-08-11 15:02:22,396 - [INFO] - aiogram.event - Update id=494105643 is handled. Duration 294 ms by bot id=8574907694
+2026-08-11 15:02:27,923 - [INFO] - aiogram.event - Update id=494105644 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:02:27,923 - [INFO] - aiogram.event - Update id=494105644 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:02:32,122 - [INFO] - aiogram.event - Update id=494105645 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 15:02:32,122 - [INFO] - aiogram.event - Update id=494105645 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 15:03:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:04:00 CDT)" (scheduled at 2026-08-11 15:03:00-05:00)
+2026-08-11 15:03:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:04:00 CDT)" (scheduled at 2026-08-11 15:03:00-05:00)
+2026-08-11 15:03:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:04:00 CDT)" executed successfully
+2026-08-11 15:03:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:04:00 CDT)" executed successfully
+2026-08-11 15:04:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:05:00 CDT)" (scheduled at 2026-08-11 15:04:00-05:00)
+2026-08-11 15:04:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:05:00 CDT)" (scheduled at 2026-08-11 15:04:00-05:00)
+2026-08-11 15:04:00,007 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:05:00 CDT)" executed successfully
+2026-08-11 15:04:00,007 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:05:00 CDT)" executed successfully
+2026-08-11 15:05:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:06:00 CDT)" (scheduled at 2026-08-11 15:05:00-05:00)
+2026-08-11 15:05:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:06:00 CDT)" (scheduled at 2026-08-11 15:05:00-05:00)
+2026-08-11 15:05:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:06:00 CDT)" executed successfully
+2026-08-11 15:05:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:06:00 CDT)" executed successfully
+2026-08-11 15:06:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:07:00 CDT)" (scheduled at 2026-08-11 15:06:00-05:00)
+2026-08-11 15:06:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:07:00 CDT)" (scheduled at 2026-08-11 15:06:00-05:00)
+2026-08-11 15:06:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:07:00 CDT)" executed successfully
+2026-08-11 15:06:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:07:00 CDT)" executed successfully
+2026-08-11 15:07:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:08:00 CDT)" (scheduled at 2026-08-11 15:07:00-05:00)
+2026-08-11 15:07:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:08:00 CDT)" (scheduled at 2026-08-11 15:07:00-05:00)
+2026-08-11 15:07:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:08:00 CDT)" executed successfully
+2026-08-11 15:07:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:08:00 CDT)" executed successfully
+2026-08-11 15:08:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:09:00 CDT)" (scheduled at 2026-08-11 15:08:00-05:00)
+2026-08-11 15:08:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:09:00 CDT)" (scheduled at 2026-08-11 15:08:00-05:00)
+2026-08-11 15:08:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:09:00 CDT)" executed successfully
+2026-08-11 15:08:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:09:00 CDT)" executed successfully
+2026-08-11 15:09:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:10:00 CDT)" (scheduled at 2026-08-11 15:09:00-05:00)
+2026-08-11 15:09:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:10:00 CDT)" (scheduled at 2026-08-11 15:09:00-05:00)
+2026-08-11 15:09:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:10:00 CDT)" executed successfully
+2026-08-11 15:09:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:10:00 CDT)" executed successfully
+2026-08-11 15:09:58,364 - [INFO] - root - Initializing database...
+2026-08-11 15:09:58,364 - [INFO] - root - Initializing database...
+2026-08-11 15:09:58,375 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:09:58,375 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:09:58,406 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:09:58,406 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:09:58,406 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:09:58,406 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:09:58,406 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:09:58,406 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:09:58,407 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:09:58,407 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:09:58,847 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:09:58,847 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:09:58,848 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:09:58,848 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:09:58,976 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:09:58,976 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:09:59,378 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:09:59,378 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:10:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:11:00 CDT)" (scheduled at 2026-08-11 15:10:00-05:00)
+2026-08-11 15:10:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:11:00 CDT)" (scheduled at 2026-08-11 15:10:00-05:00)
+2026-08-11 15:10:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:11:00 CDT)" executed successfully
+2026-08-11 15:10:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:11:00 CDT)" executed successfully
+2026-08-11 15:10:08,272 - [INFO] - aiogram.event - Update id=494105646 is handled. Duration 160 ms by bot id=8574907694
+2026-08-11 15:10:08,272 - [INFO] - aiogram.event - Update id=494105646 is handled. Duration 160 ms by bot id=8574907694
+2026-08-11 15:10:21,313 - [INFO] - aiogram.event - Update id=494105647 is handled. Duration 159 ms by bot id=8574907694
+2026-08-11 15:10:21,313 - [INFO] - aiogram.event - Update id=494105647 is handled. Duration 159 ms by bot id=8574907694
+2026-08-11 15:10:28,500 - [INFO] - aiogram.event - Update id=494105648 is handled. Duration 418 ms by bot id=8574907694
+2026-08-11 15:10:28,500 - [INFO] - aiogram.event - Update id=494105648 is handled. Duration 418 ms by bot id=8574907694
+2026-08-11 15:11:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:12:00 CDT)" (scheduled at 2026-08-11 15:11:00-05:00)
+2026-08-11 15:11:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:12:00 CDT)" (scheduled at 2026-08-11 15:11:00-05:00)
+2026-08-11 15:11:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:12:00 CDT)" executed successfully
+2026-08-11 15:11:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:12:00 CDT)" executed successfully
+2026-08-11 15:12:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:13:00 CDT)" (scheduled at 2026-08-11 15:12:00-05:00)
+2026-08-11 15:12:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:13:00 CDT)" (scheduled at 2026-08-11 15:12:00-05:00)
+2026-08-11 15:12:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:13:00 CDT)" executed successfully
+2026-08-11 15:12:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:13:00 CDT)" executed successfully
+2026-08-11 15:12:43,189 - [INFO] - root - Initializing database...
+2026-08-11 15:12:43,189 - [INFO] - root - Initializing database...
+2026-08-11 15:12:43,195 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:12:43,195 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:12:43,210 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:12:43,210 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:12:43,211 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:12:43,211 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:12:43,211 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:12:43,211 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:12:43,211 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:12:43,211 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:12:43,755 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:12:43,755 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:12:43,756 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:12:43,756 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:12:43,885 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:12:43,885 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:12:44,266 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:12:44,266 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:12:50,520 - [INFO] - aiogram.event - Update id=494105649 is handled. Duration 197 ms by bot id=8574907694
+2026-08-11 15:12:50,520 - [INFO] - aiogram.event - Update id=494105649 is handled. Duration 197 ms by bot id=8574907694
+2026-08-11 15:13:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:14:00 CDT)" (scheduled at 2026-08-11 15:13:00-05:00)
+2026-08-11 15:13:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:14:00 CDT)" (scheduled at 2026-08-11 15:13:00-05:00)
+2026-08-11 15:13:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:14:00 CDT)" executed successfully
+2026-08-11 15:13:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:14:00 CDT)" executed successfully
+2026-08-11 15:14:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:15:00 CDT)" (scheduled at 2026-08-11 15:14:00-05:00)
+2026-08-11 15:14:00,010 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:15:00 CDT)" (scheduled at 2026-08-11 15:14:00-05:00)
+2026-08-11 15:14:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:15:00 CDT)" executed successfully
+2026-08-11 15:14:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:15:00 CDT)" executed successfully
+2026-08-11 15:15:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:16:00 CDT)" (scheduled at 2026-08-11 15:15:00-05:00)
+2026-08-11 15:15:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:16:00 CDT)" (scheduled at 2026-08-11 15:15:00-05:00)
+2026-08-11 15:15:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:16:00 CDT)" executed successfully
+2026-08-11 15:15:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:16:00 CDT)" executed successfully
+2026-08-11 15:16:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:17:00 CDT)" (scheduled at 2026-08-11 15:16:00-05:00)
+2026-08-11 15:16:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:17:00 CDT)" (scheduled at 2026-08-11 15:16:00-05:00)
+2026-08-11 15:16:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:17:00 CDT)" executed successfully
+2026-08-11 15:16:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:17:00 CDT)" executed successfully
+2026-08-11 15:16:17,892 - [INFO] - aiogram.event - Update id=494105650 is handled. Duration 218 ms by bot id=8574907694
+2026-08-11 15:16:17,892 - [INFO] - aiogram.event - Update id=494105650 is handled. Duration 218 ms by bot id=8574907694
+2026-08-11 15:16:21,154 - [INFO] - aiogram.event - Update id=494105651 is handled. Duration 580 ms by bot id=8574907694
+2026-08-11 15:16:21,154 - [INFO] - aiogram.event - Update id=494105651 is handled. Duration 580 ms by bot id=8574907694
+2026-08-11 15:16:22,907 - [INFO] - aiogram.event - Update id=494105652 is handled. Duration 366 ms by bot id=8574907694
+2026-08-11 15:16:22,907 - [INFO] - aiogram.event - Update id=494105652 is handled. Duration 366 ms by bot id=8574907694
+2026-08-11 15:16:38,357 - [INFO] - aiogram.event - Update id=494105653 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 15:16:38,357 - [INFO] - aiogram.event - Update id=494105653 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 15:16:40,918 - [INFO] - aiogram.event - Update id=494105654 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:16:40,918 - [INFO] - aiogram.event - Update id=494105654 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:16:43,242 - [INFO] - aiogram.event - Update id=494105655 is handled. Duration 482 ms by bot id=8574907694
+2026-08-11 15:16:43,242 - [INFO] - aiogram.event - Update id=494105655 is handled. Duration 482 ms by bot id=8574907694
+2026-08-11 15:17:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:18:00 CDT)" (scheduled at 2026-08-11 15:17:00-05:00)
+2026-08-11 15:17:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:18:00 CDT)" (scheduled at 2026-08-11 15:17:00-05:00)
+2026-08-11 15:17:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:18:00 CDT)" executed successfully
+2026-08-11 15:17:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:18:00 CDT)" executed successfully
+2026-08-11 15:17:09,591 - [INFO] - aiogram.event - Update id=494105656 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:17:09,591 - [INFO] - aiogram.event - Update id=494105656 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:17:17,988 - [INFO] - aiogram.event - Update id=494105657 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 15:17:17,988 - [INFO] - aiogram.event - Update id=494105657 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 15:17:20,340 - [INFO] - aiogram.event - Update id=494105658 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 15:17:20,340 - [INFO] - aiogram.event - Update id=494105658 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 15:17:51,958 - [INFO] - aiogram.event - Update id=494105659 is handled. Duration 330 ms by bot id=8574907694
+2026-08-11 15:17:51,958 - [INFO] - aiogram.event - Update id=494105659 is handled. Duration 330 ms by bot id=8574907694
+2026-08-11 15:18:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:19:00 CDT)" (scheduled at 2026-08-11 15:18:00-05:00)
+2026-08-11 15:18:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:19:00 CDT)" (scheduled at 2026-08-11 15:18:00-05:00)
+2026-08-11 15:18:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:19:00 CDT)" executed successfully
+2026-08-11 15:18:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:19:00 CDT)" executed successfully
+2026-08-11 15:18:02,733 - [INFO] - aiogram.event - Update id=494105660 is handled. Duration 187 ms by bot id=8574907694
+2026-08-11 15:18:02,733 - [INFO] - aiogram.event - Update id=494105660 is handled. Duration 187 ms by bot id=8574907694
+2026-08-11 15:18:04,284 - [INFO] - aiogram.event - Update id=494105661 is handled. Duration 423 ms by bot id=8574907694
+2026-08-11 15:18:04,284 - [INFO] - aiogram.event - Update id=494105661 is handled. Duration 423 ms by bot id=8574907694
+2026-08-11 15:18:08,059 - [INFO] - aiogram.event - Update id=494105662 is handled. Duration 307 ms by bot id=8574907694
+2026-08-11 15:18:08,059 - [INFO] - aiogram.event - Update id=494105662 is handled. Duration 307 ms by bot id=8574907694
+2026-08-11 15:18:09,688 - [INFO] - aiogram.event - Update id=494105663 is handled. Duration 493 ms by bot id=8574907694
+2026-08-11 15:18:09,688 - [INFO] - aiogram.event - Update id=494105663 is handled. Duration 493 ms by bot id=8574907694
+2026-08-11 15:18:11,439 - [INFO] - aiogram.event - Update id=494105664 is handled. Duration 393 ms by bot id=8574907694
+2026-08-11 15:18:11,439 - [INFO] - aiogram.event - Update id=494105664 is handled. Duration 393 ms by bot id=8574907694
+2026-08-11 15:18:12,977 - [INFO] - aiogram.event - Update id=494105665 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:18:12,977 - [INFO] - aiogram.event - Update id=494105665 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:18:14,560 - [INFO] - aiogram.event - Update id=494105666 is handled. Duration 357 ms by bot id=8574907694
+2026-08-11 15:18:14,560 - [INFO] - aiogram.event - Update id=494105666 is handled. Duration 357 ms by bot id=8574907694
+2026-08-11 15:18:16,092 - [INFO] - aiogram.event - Update id=494105667 is handled. Duration 289 ms by bot id=8574907694
+2026-08-11 15:18:16,092 - [INFO] - aiogram.event - Update id=494105667 is handled. Duration 289 ms by bot id=8574907694
+2026-08-11 15:18:17,693 - [INFO] - aiogram.event - Update id=494105668 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 15:18:17,693 - [INFO] - aiogram.event - Update id=494105668 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 15:18:22,225 - [INFO] - aiogram.event - Update id=494105669 is handled. Duration 340 ms by bot id=8574907694
+2026-08-11 15:18:22,225 - [INFO] - aiogram.event - Update id=494105669 is handled. Duration 340 ms by bot id=8574907694
+2026-08-11 15:18:24,114 - [INFO] - aiogram.event - Update id=494105670 is handled. Duration 385 ms by bot id=8574907694
+2026-08-11 15:18:24,114 - [INFO] - aiogram.event - Update id=494105670 is handled. Duration 385 ms by bot id=8574907694
+2026-08-11 15:18:33,818 - [INFO] - aiogram.event - Update id=494105671 is handled. Duration 355 ms by bot id=8574907694
+2026-08-11 15:18:33,818 - [INFO] - aiogram.event - Update id=494105671 is handled. Duration 355 ms by bot id=8574907694
+2026-08-11 15:18:36,411 - [INFO] - aiogram.event - Update id=494105672 is handled. Duration 283 ms by bot id=8574907694
+2026-08-11 15:18:36,411 - [INFO] - aiogram.event - Update id=494105672 is handled. Duration 283 ms by bot id=8574907694
+2026-08-11 15:19:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:20:00 CDT)" (scheduled at 2026-08-11 15:19:00-05:00)
+2026-08-11 15:19:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:20:00 CDT)" (scheduled at 2026-08-11 15:19:00-05:00)
+2026-08-11 15:19:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:20:00 CDT)" executed successfully
+2026-08-11 15:19:00,013 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:20:00 CDT)" executed successfully
+2026-08-11 15:19:18,327 - [INFO] - root - Initializing database...
+2026-08-11 15:19:18,327 - [INFO] - root - Initializing database...
+2026-08-11 15:19:18,332 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:19:18,332 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:19:18,342 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:19:18,342 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:19:18,342 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:19:18,342 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:19:18,342 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:19:18,342 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:19:18,343 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:19:18,343 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:19:19,248 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:19:19,248 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:19:19,248 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:19:19,248 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:19:19,366 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:19:19,366 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:19:19,684 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:19:19,684 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:19:27,054 - [INFO] - aiogram.event - Update id=494105673 is handled. Duration 217 ms by bot id=8574907694
+2026-08-11 15:19:27,054 - [INFO] - aiogram.event - Update id=494105673 is handled. Duration 217 ms by bot id=8574907694
+2026-08-11 15:19:33,552 - [INFO] - aiogram.event - Update id=494105674 is handled. Duration 191 ms by bot id=8574907694
+2026-08-11 15:19:33,552 - [INFO] - aiogram.event - Update id=494105674 is handled. Duration 191 ms by bot id=8574907694
+2026-08-11 15:19:36,115 - [INFO] - aiogram.event - Update id=494105675 is handled. Duration 154 ms by bot id=8574907694
+2026-08-11 15:19:36,115 - [INFO] - aiogram.event - Update id=494105675 is handled. Duration 154 ms by bot id=8574907694
+2026-08-11 15:19:38,804 - [INFO] - aiogram.event - Update id=494105676 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:19:38,804 - [INFO] - aiogram.event - Update id=494105676 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:20:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:21:00 CDT)" (scheduled at 2026-08-11 15:20:00-05:00)
+2026-08-11 15:20:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:21:00 CDT)" (scheduled at 2026-08-11 15:20:00-05:00)
+2026-08-11 15:20:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:21:00 CDT)" executed successfully
+2026-08-11 15:20:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:21:00 CDT)" executed successfully
+2026-08-11 15:20:09,526 - [INFO] - aiogram.event - Update id=494105677 is handled. Duration 153 ms by bot id=8574907694
+2026-08-11 15:20:09,526 - [INFO] - aiogram.event - Update id=494105677 is handled. Duration 153 ms by bot id=8574907694
+2026-08-11 15:20:11,965 - [INFO] - aiogram.event - Update id=494105678 is handled. Duration 207 ms by bot id=8574907694
+2026-08-11 15:20:11,965 - [INFO] - aiogram.event - Update id=494105678 is handled. Duration 207 ms by bot id=8574907694
+2026-08-11 15:20:13,807 - [INFO] - aiogram.event - Update id=494105679 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 15:20:13,807 - [INFO] - aiogram.event - Update id=494105679 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 15:20:18,433 - [INFO] - aiogram.event - Update id=494105680 is handled. Duration 325 ms by bot id=8574907694
+2026-08-11 15:20:18,433 - [INFO] - aiogram.event - Update id=494105680 is handled. Duration 325 ms by bot id=8574907694
+2026-08-11 15:20:20,886 - [INFO] - aiogram.event - Update id=494105681 is handled. Duration 416 ms by bot id=8574907694
+2026-08-11 15:20:20,886 - [INFO] - aiogram.event - Update id=494105681 is handled. Duration 416 ms by bot id=8574907694
+2026-08-11 15:20:22,311 - [INFO] - aiogram.event - Update id=494105682 is handled. Duration 443 ms by bot id=8574907694
+2026-08-11 15:20:22,311 - [INFO] - aiogram.event - Update id=494105682 is handled. Duration 443 ms by bot id=8574907694
+2026-08-11 15:20:41,575 - [INFO] - aiogram.event - Update id=494105683 is handled. Duration 325 ms by bot id=8574907694
+2026-08-11 15:20:41,575 - [INFO] - aiogram.event - Update id=494105683 is handled. Duration 325 ms by bot id=8574907694
+2026-08-11 15:20:45,771 - [INFO] - aiogram.event - Update id=494105684 is handled. Duration 420 ms by bot id=8574907694
+2026-08-11 15:20:45,771 - [INFO] - aiogram.event - Update id=494105684 is handled. Duration 420 ms by bot id=8574907694
+2026-08-11 15:20:50,136 - [INFO] - aiogram.event - Update id=494105685 is handled. Duration 478 ms by bot id=8574907694
+2026-08-11 15:20:50,136 - [INFO] - aiogram.event - Update id=494105685 is handled. Duration 478 ms by bot id=8574907694
+2026-08-11 15:21:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:22:00 CDT)" (scheduled at 2026-08-11 15:21:00-05:00)
+2026-08-11 15:21:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:22:00 CDT)" (scheduled at 2026-08-11 15:21:00-05:00)
+2026-08-11 15:21:00,007 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:22:00 CDT)" executed successfully
+2026-08-11 15:21:00,007 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:22:00 CDT)" executed successfully
+2026-08-11 15:21:03,583 - [INFO] - aiogram.event - Update id=494105686 is handled. Duration 417 ms by bot id=8574907694
+2026-08-11 15:21:03,583 - [INFO] - aiogram.event - Update id=494105686 is handled. Duration 417 ms by bot id=8574907694
+2026-08-11 15:21:12,593 - [INFO] - aiogram.event - Update id=494105687 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 15:21:12,593 - [INFO] - aiogram.event - Update id=494105687 is handled. Duration 205 ms by bot id=8574907694
+2026-08-11 15:21:14,429 - [INFO] - aiogram.event - Update id=494105688 is handled. Duration 397 ms by bot id=8574907694
+2026-08-11 15:21:14,429 - [INFO] - aiogram.event - Update id=494105688 is handled. Duration 397 ms by bot id=8574907694
+2026-08-11 15:21:40,436 - [INFO] - aiogram.event - Update id=494105689 is handled. Duration 395 ms by bot id=8574907694
+2026-08-11 15:21:40,436 - [INFO] - aiogram.event - Update id=494105689 is handled. Duration 395 ms by bot id=8574907694
+2026-08-11 15:21:44,839 - [INFO] - aiogram.event - Update id=494105690 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:21:44,839 - [INFO] - aiogram.event - Update id=494105690 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:21:53,137 - [INFO] - aiogram.event - Update id=494105691 is handled. Duration 195 ms by bot id=8574907694
+2026-08-11 15:21:53,137 - [INFO] - aiogram.event - Update id=494105691 is handled. Duration 195 ms by bot id=8574907694
+2026-08-11 15:22:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:23:00 CDT)" (scheduled at 2026-08-11 15:22:00-05:00)
+2026-08-11 15:22:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:23:00 CDT)" (scheduled at 2026-08-11 15:22:00-05:00)
+2026-08-11 15:22:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:23:00 CDT)" executed successfully
+2026-08-11 15:22:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:23:00 CDT)" executed successfully
+2026-08-11 15:22:10,044 - [INFO] - aiogram.event - Update id=494105692 is handled. Duration 216 ms by bot id=8574907694
+2026-08-11 15:22:10,044 - [INFO] - aiogram.event - Update id=494105692 is handled. Duration 216 ms by bot id=8574907694
+2026-08-11 15:22:11,774 - [INFO] - aiogram.event - Update id=494105693 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:22:11,774 - [INFO] - aiogram.event - Update id=494105693 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:22:18,744 - [INFO] - aiogram.event - Update id=494105694 is handled. Duration 417 ms by bot id=8574907694
+2026-08-11 15:22:18,744 - [INFO] - aiogram.event - Update id=494105694 is handled. Duration 417 ms by bot id=8574907694
+2026-08-11 15:22:45,269 - [INFO] - aiogram.event - Update id=494105695 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:22:45,269 - [INFO] - aiogram.event - Update id=494105695 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:22:48,738 - [INFO] - aiogram.event - Update id=494105696 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:22:48,738 - [INFO] - aiogram.event - Update id=494105696 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:22:51,297 - [INFO] - aiogram.event - Update id=494105697 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:22:51,297 - [INFO] - aiogram.event - Update id=494105697 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:23:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:24:00 CDT)" (scheduled at 2026-08-11 15:23:00-05:00)
+2026-08-11 15:23:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:24:00 CDT)" (scheduled at 2026-08-11 15:23:00-05:00)
+2026-08-11 15:23:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:24:00 CDT)" executed successfully
+2026-08-11 15:23:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:24:00 CDT)" executed successfully
+2026-08-11 15:23:00,923 - [INFO] - aiogram.event - Update id=494105698 is handled. Duration 384 ms by bot id=8574907694
+2026-08-11 15:23:00,923 - [INFO] - aiogram.event - Update id=494105698 is handled. Duration 384 ms by bot id=8574907694
+2026-08-11 15:23:03,587 - [INFO] - aiogram.event - Update id=494105699 is handled. Duration 334 ms by bot id=8574907694
+2026-08-11 15:23:03,587 - [INFO] - aiogram.event - Update id=494105699 is handled. Duration 334 ms by bot id=8574907694
+2026-08-11 15:23:06,104 - [INFO] - aiogram.event - Update id=494105700 is handled. Duration 266 ms by bot id=8574907694
+2026-08-11 15:23:06,104 - [INFO] - aiogram.event - Update id=494105700 is handled. Duration 266 ms by bot id=8574907694
+2026-08-11 15:23:16,513 - [INFO] - aiogram.event - Update id=494105701 is handled. Duration 310 ms by bot id=8574907694
+2026-08-11 15:23:16,513 - [INFO] - aiogram.event - Update id=494105701 is handled. Duration 310 ms by bot id=8574907694
+2026-08-11 15:23:22,837 - [INFO] - aiogram.event - Update id=494105702 is handled. Duration 425 ms by bot id=8574907694
+2026-08-11 15:23:22,837 - [INFO] - aiogram.event - Update id=494105702 is handled. Duration 425 ms by bot id=8574907694
+2026-08-11 15:23:27,348 - [INFO] - aiogram.event - Update id=494105703 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:23:27,348 - [INFO] - aiogram.event - Update id=494105703 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:23:32,570 - [INFO] - aiogram.event - Update id=494105704 is handled. Duration 207 ms by bot id=8574907694
+2026-08-11 15:23:32,570 - [INFO] - aiogram.event - Update id=494105704 is handled. Duration 207 ms by bot id=8574907694
+2026-08-11 15:23:34,411 - [INFO] - aiogram.event - Update id=494105705 is handled. Duration 383 ms by bot id=8574907694
+2026-08-11 15:23:34,411 - [INFO] - aiogram.event - Update id=494105705 is handled. Duration 383 ms by bot id=8574907694
+2026-08-11 15:23:39,430 - [INFO] - aiogram.event - Update id=494105706 is handled. Duration 339 ms by bot id=8574907694
+2026-08-11 15:23:39,430 - [INFO] - aiogram.event - Update id=494105706 is handled. Duration 339 ms by bot id=8574907694
+2026-08-11 15:23:45,427 - [INFO] - aiogram.event - Update id=494105707 is handled. Duration 355 ms by bot id=8574907694
+2026-08-11 15:23:45,427 - [INFO] - aiogram.event - Update id=494105707 is handled. Duration 355 ms by bot id=8574907694
+2026-08-11 15:24:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:25:00 CDT)" (scheduled at 2026-08-11 15:24:00-05:00)
+2026-08-11 15:24:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:25:00 CDT)" (scheduled at 2026-08-11 15:24:00-05:00)
+2026-08-11 15:24:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:25:00 CDT)" executed successfully
+2026-08-11 15:24:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:25:00 CDT)" executed successfully
+2026-08-11 15:24:08,099 - [INFO] - aiogram.event - Update id=494105708 is handled. Duration 383 ms by bot id=8574907694
+2026-08-11 15:24:08,099 - [INFO] - aiogram.event - Update id=494105708 is handled. Duration 383 ms by bot id=8574907694
+2026-08-11 15:24:12,810 - [INFO] - aiogram.event - Update id=494105709 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:24:12,810 - [INFO] - aiogram.event - Update id=494105709 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:24:15,368 - [INFO] - aiogram.event - Update id=494105710 is handled. Duration 387 ms by bot id=8574907694
+2026-08-11 15:24:15,368 - [INFO] - aiogram.event - Update id=494105710 is handled. Duration 387 ms by bot id=8574907694
+2026-08-11 15:24:26,462 - [INFO] - aiogram.event - Update id=494105711 is handled. Duration 340 ms by bot id=8574907694
+2026-08-11 15:24:26,462 - [INFO] - aiogram.event - Update id=494105711 is handled. Duration 340 ms by bot id=8574907694
+2026-08-11 15:24:36,480 - [INFO] - aiogram.event - Update id=494105712 is handled. Duration 388 ms by bot id=8574907694
+2026-08-11 15:24:36,480 - [INFO] - aiogram.event - Update id=494105712 is handled. Duration 388 ms by bot id=8574907694
+2026-08-11 15:24:47,732 - [INFO] - aiogram.event - Update id=494105713 is handled. Duration 308 ms by bot id=8574907694
+2026-08-11 15:24:47,732 - [INFO] - aiogram.event - Update id=494105713 is handled. Duration 308 ms by bot id=8574907694
+2026-08-11 15:24:54,800 - [INFO] - aiogram.event - Update id=494105714 is handled. Duration 385 ms by bot id=8574907694
+2026-08-11 15:24:54,800 - [INFO] - aiogram.event - Update id=494105714 is handled. Duration 385 ms by bot id=8574907694
+2026-08-11 15:24:57,250 - [INFO] - aiogram.event - Update id=494105715 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:24:57,250 - [INFO] - aiogram.event - Update id=494105715 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:25:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:26:00 CDT)" (scheduled at 2026-08-11 15:25:00-05:00)
+2026-08-11 15:25:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:26:00 CDT)" (scheduled at 2026-08-11 15:25:00-05:00)
+2026-08-11 15:25:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:26:00 CDT)" executed successfully
+2026-08-11 15:25:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:26:00 CDT)" executed successfully
+2026-08-11 15:25:01,858 - [INFO] - aiogram.event - Update id=494105716 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:25:01,858 - [INFO] - aiogram.event - Update id=494105716 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:25:10,360 - [INFO] - aiogram.event - Update id=494105717 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:25:10,360 - [INFO] - aiogram.event - Update id=494105717 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:25:17,938 - [INFO] - aiogram.event - Update id=494105718 is handled. Duration 306 ms by bot id=8574907694
+2026-08-11 15:25:17,938 - [INFO] - aiogram.event - Update id=494105718 is handled. Duration 306 ms by bot id=8574907694
+2026-08-11 15:25:22,236 - [INFO] - aiogram.event - Update id=494105719 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:25:22,236 - [INFO] - aiogram.event - Update id=494105719 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:25:26,740 - [INFO] - aiogram.event - Update id=494105720 is handled. Duration 201 ms by bot id=8574907694
+2026-08-11 15:25:26,740 - [INFO] - aiogram.event - Update id=494105720 is handled. Duration 201 ms by bot id=8574907694
+2026-08-11 15:25:48,964 - [INFO] - aiogram.event - Update id=494105721 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:25:48,964 - [INFO] - aiogram.event - Update id=494105721 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:25:53,586 - [INFO] - aiogram.event - Update id=494105722 is handled. Duration 613 ms by bot id=8574907694
+2026-08-11 15:25:53,586 - [INFO] - aiogram.event - Update id=494105722 is handled. Duration 613 ms by bot id=8574907694
+2026-08-11 15:25:57,157 - [INFO] - aiogram.event - Update id=494105723 is handled. Duration 401 ms by bot id=8574907694
+2026-08-11 15:25:57,157 - [INFO] - aiogram.event - Update id=494105723 is handled. Duration 401 ms by bot id=8574907694
+2026-08-11 15:26:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:27:00 CDT)" (scheduled at 2026-08-11 15:26:00-05:00)
+2026-08-11 15:26:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:27:00 CDT)" (scheduled at 2026-08-11 15:26:00-05:00)
+2026-08-11 15:26:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:27:00 CDT)" executed successfully
+2026-08-11 15:26:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:27:00 CDT)" executed successfully
+2026-08-11 15:26:00,564 - [INFO] - aiogram.event - Update id=494105724 is not handled. Duration 8 ms by bot id=8574907694
+2026-08-11 15:26:00,564 - [INFO] - aiogram.event - Update id=494105724 is not handled. Duration 8 ms by bot id=8574907694
+2026-08-11 15:27:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:28:00 CDT)" (scheduled at 2026-08-11 15:27:00-05:00)
+2026-08-11 15:27:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:28:00 CDT)" (scheduled at 2026-08-11 15:27:00-05:00)
+2026-08-11 15:27:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:28:00 CDT)" executed successfully
+2026-08-11 15:27:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:28:00 CDT)" executed successfully
+2026-08-11 15:28:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:29:00 CDT)" (scheduled at 2026-08-11 15:28:00-05:00)
+2026-08-11 15:28:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:29:00 CDT)" (scheduled at 2026-08-11 15:28:00-05:00)
+2026-08-11 15:28:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:29:00 CDT)" executed successfully
+2026-08-11 15:28:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:29:00 CDT)" executed successfully
+2026-08-11 15:29:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:30:00 CDT)" (scheduled at 2026-08-11 15:29:00-05:00)
+2026-08-11 15:29:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:30:00 CDT)" (scheduled at 2026-08-11 15:29:00-05:00)
+2026-08-11 15:29:00,004 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:30:00 CDT)" executed successfully
+2026-08-11 15:29:00,004 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:30:00 CDT)" executed successfully
+2026-08-11 15:29:27,841 - [INFO] - aiogram.event - Update id=494105725 is not handled. Duration 8 ms by bot id=8574907694
+2026-08-11 15:29:27,841 - [INFO] - aiogram.event - Update id=494105725 is not handled. Duration 8 ms by bot id=8574907694
+2026-08-11 15:30:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:31:00 CDT)" (scheduled at 2026-08-11 15:30:00-05:00)
+2026-08-11 15:30:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:31:00 CDT)" (scheduled at 2026-08-11 15:30:00-05:00)
+2026-08-11 15:30:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:31:00 CDT)" executed successfully
+2026-08-11 15:30:00,003 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:31:00 CDT)" executed successfully
+2026-08-11 15:31:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:32:00 CDT)" (scheduled at 2026-08-11 15:31:00-05:00)
+2026-08-11 15:31:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:32:00 CDT)" (scheduled at 2026-08-11 15:31:00-05:00)
+2026-08-11 15:31:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:32:00 CDT)" executed successfully
+2026-08-11 15:31:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:32:00 CDT)" executed successfully
+2026-08-11 15:32:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:33:00 CDT)" (scheduled at 2026-08-11 15:32:00-05:00)
+2026-08-11 15:32:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:33:00 CDT)" (scheduled at 2026-08-11 15:32:00-05:00)
+2026-08-11 15:32:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:33:00 CDT)" executed successfully
+2026-08-11 15:32:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:33:00 CDT)" executed successfully
+2026-08-11 15:33:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:34:00 CDT)" (scheduled at 2026-08-11 15:33:00-05:00)
+2026-08-11 15:33:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:34:00 CDT)" (scheduled at 2026-08-11 15:33:00-05:00)
+2026-08-11 15:33:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:34:00 CDT)" executed successfully
+2026-08-11 15:33:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:34:00 CDT)" executed successfully
+2026-08-11 15:33:35,726 - [INFO] - aiogram.event - Update id=494105726 is handled. Duration 324 ms by bot id=8574907694
+2026-08-11 15:33:35,726 - [INFO] - aiogram.event - Update id=494105726 is handled. Duration 324 ms by bot id=8574907694
+2026-08-11 15:33:38,466 - [INFO] - aiogram.event - Update id=494105727 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:33:38,466 - [INFO] - aiogram.event - Update id=494105727 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:33:42,668 - [INFO] - aiogram.event - Update id=494105728 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:33:42,668 - [INFO] - aiogram.event - Update id=494105728 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:33:44,406 - [INFO] - aiogram.event - Update id=494105729 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:33:44,406 - [INFO] - aiogram.event - Update id=494105729 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:33:51,166 - [INFO] - aiogram.event - Update id=494105730 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:33:51,166 - [INFO] - aiogram.event - Update id=494105730 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:34:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:35:00 CDT)" (scheduled at 2026-08-11 15:34:00-05:00)
+2026-08-11 15:34:00,001 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:35:00 CDT)" (scheduled at 2026-08-11 15:34:00-05:00)
+2026-08-11 15:34:00,004 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:35:00 CDT)" executed successfully
+2026-08-11 15:34:00,004 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:35:00 CDT)" executed successfully
+2026-08-11 15:34:04,377 - [INFO] - aiogram.event - Update id=494105731 is handled. Duration 394 ms by bot id=8574907694
+2026-08-11 15:34:04,377 - [INFO] - aiogram.event - Update id=494105731 is handled. Duration 394 ms by bot id=8574907694
+2026-08-11 15:34:15,417 - [INFO] - aiogram.event - Update id=494105732 is handled. Duration 373 ms by bot id=8574907694
+2026-08-11 15:34:15,417 - [INFO] - aiogram.event - Update id=494105732 is handled. Duration 373 ms by bot id=8574907694
+2026-08-11 15:34:39,192 - [INFO] - aiogram.event - Update id=494105733 is handled. Duration 430 ms by bot id=8574907694
+2026-08-11 15:34:39,192 - [INFO] - aiogram.event - Update id=494105733 is handled. Duration 430 ms by bot id=8574907694
+2026-08-11 15:34:44,315 - [INFO] - aiogram.event - Update id=494105734 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:34:44,315 - [INFO] - aiogram.event - Update id=494105734 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:34:46,154 - [INFO] - aiogram.event - Update id=494105735 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:34:46,154 - [INFO] - aiogram.event - Update id=494105735 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:35:00,004 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:36:00 CDT)" (scheduled at 2026-08-11 15:35:00-05:00)
+2026-08-11 15:35:00,004 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:36:00 CDT)" (scheduled at 2026-08-11 15:35:00-05:00)
+2026-08-11 15:35:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:36:00 CDT)" executed successfully
+2026-08-11 15:35:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:36:00 CDT)" executed successfully
+2026-08-11 15:35:02,845 - [INFO] - aiogram.event - Update id=494105736 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:35:02,845 - [INFO] - aiogram.event - Update id=494105736 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 15:35:10,322 - [INFO] - aiogram.event - Update id=494105737 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:35:10,322 - [INFO] - aiogram.event - Update id=494105737 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:35:17,753 - [INFO] - aiogram.event - Update id=494105738 is handled. Duration 457 ms by bot id=8574907694
+2026-08-11 15:35:17,753 - [INFO] - aiogram.event - Update id=494105738 is handled. Duration 457 ms by bot id=8574907694
+2026-08-11 15:35:27,832 - [INFO] - aiogram.event - Update id=494105739 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:35:27,832 - [INFO] - aiogram.event - Update id=494105739 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:35:50,163 - [INFO] - aiogram.event - Update id=494105740 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 15:35:50,163 - [INFO] - aiogram.event - Update id=494105740 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 15:35:57,126 - [INFO] - aiogram.event - Update id=494105741 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:35:57,126 - [INFO] - aiogram.event - Update id=494105741 is handled. Duration 412 ms by bot id=8574907694
+2026-08-11 15:36:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:37:00 CDT)" (scheduled at 2026-08-11 15:36:00-05:00)
+2026-08-11 15:36:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:37:00 CDT)" (scheduled at 2026-08-11 15:36:00-05:00)
+2026-08-11 15:36:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:37:00 CDT)" executed successfully
+2026-08-11 15:36:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:37:00 CDT)" executed successfully
+2026-08-11 15:36:01,418 - [INFO] - aiogram.event - Update id=494105742 is handled. Duration 188 ms by bot id=8574907694
+2026-08-11 15:36:01,418 - [INFO] - aiogram.event - Update id=494105742 is handled. Duration 188 ms by bot id=8574907694
+2026-08-11 15:36:10,887 - [INFO] - aiogram.event - Update id=494105743 is handled. Duration 457 ms by bot id=8574907694
+2026-08-11 15:36:10,887 - [INFO] - aiogram.event - Update id=494105743 is handled. Duration 457 ms by bot id=8574907694
+2026-08-11 15:36:17,904 - [INFO] - aiogram.event - Update id=494105744 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:36:17,904 - [INFO] - aiogram.event - Update id=494105744 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:36:26,404 - [INFO] - aiogram.event - Update id=494105745 is handled. Duration 179 ms by bot id=8574907694
+2026-08-11 15:36:26,404 - [INFO] - aiogram.event - Update id=494105745 is handled. Duration 179 ms by bot id=8574907694
+2026-08-11 15:36:30,806 - [INFO] - aiogram.event - Update id=494105746 is handled. Duration 404 ms by bot id=8574907694
+2026-08-11 15:36:30,806 - [INFO] - aiogram.event - Update id=494105746 is handled. Duration 404 ms by bot id=8574907694
+2026-08-11 15:36:34,084 - [INFO] - aiogram.event - Update id=494105747 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:36:34,084 - [INFO] - aiogram.event - Update id=494105747 is handled. Duration 403 ms by bot id=8574907694
+2026-08-11 15:36:38,692 - [INFO] - aiogram.event - Update id=494105748 is handled. Duration 228 ms by bot id=8574907694
+2026-08-11 15:36:38,692 - [INFO] - aiogram.event - Update id=494105748 is handled. Duration 228 ms by bot id=8574907694
+2026-08-11 15:36:40,738 - [INFO] - aiogram.event - Update id=494105749 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 15:36:40,738 - [INFO] - aiogram.event - Update id=494105749 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 15:36:46,692 - [INFO] - aiogram.event - Update id=494105750 is handled. Duration 211 ms by bot id=8574907694
+2026-08-11 15:36:46,692 - [INFO] - aiogram.event - Update id=494105750 is handled. Duration 211 ms by bot id=8574907694
+2026-08-11 15:36:50,887 - [INFO] - aiogram.event - Update id=494105751 is handled. Duration 2773 ms by bot id=8574907694
+2026-08-11 15:36:50,887 - [INFO] - aiogram.event - Update id=494105751 is handled. Duration 2773 ms by bot id=8574907694
+2026-08-11 15:37:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:38:00 CDT)" (scheduled at 2026-08-11 15:37:00-05:00)
+2026-08-11 15:37:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:38:00 CDT)" (scheduled at 2026-08-11 15:37:00-05:00)
+2026-08-11 15:37:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:38:00 CDT)" executed successfully
+2026-08-11 15:37:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:38:00 CDT)" executed successfully
+2026-08-11 15:37:34,170 - [INFO] - aiogram.event - Update id=494105752 is handled. Duration 181 ms by bot id=8574907694
+2026-08-11 15:37:34,170 - [INFO] - aiogram.event - Update id=494105752 is handled. Duration 181 ms by bot id=8574907694
+2026-08-11 15:37:37,167 - [INFO] - aiogram.event - Update id=494105753 is handled. Duration 360 ms by bot id=8574907694
+2026-08-11 15:37:37,167 - [INFO] - aiogram.event - Update id=494105753 is handled. Duration 360 ms by bot id=8574907694
+2026-08-11 15:37:39,315 - [INFO] - aiogram.event - Update id=494105754 is handled. Duration 609 ms by bot id=8574907694
+2026-08-11 15:37:39,315 - [INFO] - aiogram.event - Update id=494105754 is handled. Duration 609 ms by bot id=8574907694
+2026-08-11 15:37:41,399 - [INFO] - aiogram.event - Update id=494105755 is handled. Duration 447 ms by bot id=8574907694
+2026-08-11 15:37:41,399 - [INFO] - aiogram.event - Update id=494105755 is handled. Duration 447 ms by bot id=8574907694
+2026-08-11 15:37:46,892 - [INFO] - aiogram.event - Update id=494105756 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:37:46,892 - [INFO] - aiogram.event - Update id=494105756 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:38:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:39:00 CDT)" (scheduled at 2026-08-11 15:38:00-05:00)
+2026-08-11 15:38:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:39:00 CDT)" (scheduled at 2026-08-11 15:38:00-05:00)
+2026-08-11 15:38:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:39:00 CDT)" executed successfully
+2026-08-11 15:38:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:39:00 CDT)" executed successfully
+2026-08-11 15:38:53,145 - [INFO] - aiogram.event - Update id=494105757 is handled. Duration 200 ms by bot id=8574907694
+2026-08-11 15:38:53,145 - [INFO] - aiogram.event - Update id=494105757 is handled. Duration 200 ms by bot id=8574907694
+2026-08-11 15:39:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:40:00 CDT)" (scheduled at 2026-08-11 15:39:00-05:00)
+2026-08-11 15:39:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:40:00 CDT)" (scheduled at 2026-08-11 15:39:00-05:00)
+2026-08-11 15:39:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:40:00 CDT)" executed successfully
+2026-08-11 15:39:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:40:00 CDT)" executed successfully
+2026-08-11 15:39:01,556 - [INFO] - aiogram.event - Update id=494105758 is handled. Duration 593 ms by bot id=8574907694
+2026-08-11 15:39:01,556 - [INFO] - aiogram.event - Update id=494105758 is handled. Duration 593 ms by bot id=8574907694
+2026-08-11 15:39:03,793 - [INFO] - aiogram.event - Update id=494105759 is handled. Duration 405 ms by bot id=8574907694
+2026-08-11 15:39:03,793 - [INFO] - aiogram.event - Update id=494105759 is handled. Duration 405 ms by bot id=8574907694
+2026-08-11 15:39:14,650 - [INFO] - aiogram.event - Update id=494105760 is handled. Duration 551 ms by bot id=8574907694
+2026-08-11 15:39:14,650 - [INFO] - aiogram.event - Update id=494105760 is handled. Duration 551 ms by bot id=8574907694
+2026-08-11 15:39:16,940 - [INFO] - aiogram.event - Update id=494105761 is handled. Duration 449 ms by bot id=8574907694
+2026-08-11 15:39:16,940 - [INFO] - aiogram.event - Update id=494105761 is handled. Duration 449 ms by bot id=8574907694
+2026-08-11 15:39:43,834 - [INFO] - aiogram.event - Update id=494105762 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 15:39:43,834 - [INFO] - aiogram.event - Update id=494105762 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 15:39:45,990 - [INFO] - aiogram.event - Update id=494105763 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 15:39:45,990 - [INFO] - aiogram.event - Update id=494105763 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 15:39:48,029 - [INFO] - aiogram.event - Update id=494105764 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:39:48,029 - [INFO] - aiogram.event - Update id=494105764 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:39:50,887 - [INFO] - aiogram.event - Update id=494105765 is handled. Duration 470 ms by bot id=8574907694
+2026-08-11 15:39:50,887 - [INFO] - aiogram.event - Update id=494105765 is handled. Duration 470 ms by bot id=8574907694
+2026-08-11 15:39:54,687 - [INFO] - aiogram.event - Update id=494105766 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 15:39:54,687 - [INFO] - aiogram.event - Update id=494105766 is handled. Duration 399 ms by bot id=8574907694
+2026-08-11 15:40:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:41:00 CDT)" (scheduled at 2026-08-11 15:40:00-05:00)
+2026-08-11 15:40:00,005 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:41:00 CDT)" (scheduled at 2026-08-11 15:40:00-05:00)
+2026-08-11 15:40:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:41:00 CDT)" executed successfully
+2026-08-11 15:40:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:41:00 CDT)" executed successfully
+2026-08-11 15:41:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:42:00 CDT)" (scheduled at 2026-08-11 15:41:00-05:00)
+2026-08-11 15:41:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:42:00 CDT)" (scheduled at 2026-08-11 15:41:00-05:00)
+2026-08-11 15:41:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:42:00 CDT)" executed successfully
+2026-08-11 15:41:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:42:00 CDT)" executed successfully
+2026-08-11 15:41:12,905 - [INFO] - aiogram.event - Update id=494105767 is handled. Duration 289 ms by bot id=8574907694
+2026-08-11 15:41:12,905 - [INFO] - aiogram.event - Update id=494105767 is handled. Duration 289 ms by bot id=8574907694
+2026-08-11 15:41:17,941 - [INFO] - aiogram.event - Update id=494105768 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:41:17,941 - [INFO] - aiogram.event - Update id=494105768 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:41:20,496 - [INFO] - aiogram.event - Update id=494105769 is handled. Duration 363 ms by bot id=8574907694
+2026-08-11 15:41:20,496 - [INFO] - aiogram.event - Update id=494105769 is handled. Duration 363 ms by bot id=8574907694
+2026-08-11 15:41:24,285 - [INFO] - aiogram.event - Update id=494105770 is handled. Duration 391 ms by bot id=8574907694
+2026-08-11 15:41:24,285 - [INFO] - aiogram.event - Update id=494105770 is handled. Duration 391 ms by bot id=8574907694
+2026-08-11 15:41:30,646 - [INFO] - aiogram.event - Update id=494105771 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 15:41:30,646 - [INFO] - aiogram.event - Update id=494105771 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 15:41:34,220 - [INFO] - aiogram.event - Update id=494105772 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:41:34,220 - [INFO] - aiogram.event - Update id=494105772 is handled. Duration 411 ms by bot id=8574907694
+2026-08-11 15:41:35,550 - [INFO] - aiogram.event - Update id=494105773 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:41:35,550 - [INFO] - aiogram.event - Update id=494105773 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:41:38,418 - [INFO] - aiogram.event - Update id=494105774 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:41:38,418 - [INFO] - aiogram.event - Update id=494105774 is handled. Duration 407 ms by bot id=8574907694
+2026-08-11 15:41:41,186 - [INFO] - aiogram.event - Update id=494105775 is handled. Duration 398 ms by bot id=8574907694
+2026-08-11 15:41:41,186 - [INFO] - aiogram.event - Update id=494105775 is handled. Duration 398 ms by bot id=8574907694
+2026-08-11 15:42:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:43:00 CDT)" (scheduled at 2026-08-11 15:42:00-05:00)
+2026-08-11 15:42:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:43:00 CDT)" (scheduled at 2026-08-11 15:42:00-05:00)
+2026-08-11 15:42:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:43:00 CDT)" executed successfully
+2026-08-11 15:42:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:43:00 CDT)" executed successfully
+2026-08-11 15:42:05,884 - [INFO] - aiogram.event - Update id=494105776 is handled. Duration 5 ms by bot id=8574907694
+2026-08-11 15:42:05,884 - [INFO] - aiogram.event - Update id=494105776 is handled. Duration 5 ms by bot id=8574907694
+2026-08-11 15:42:17,860 - [INFO] - aiogram.event - Update id=494105777 is handled. Duration 178 ms by bot id=8574907694
+2026-08-11 15:42:17,860 - [INFO] - aiogram.event - Update id=494105777 is handled. Duration 178 ms by bot id=8574907694
+2026-08-11 15:42:20,811 - [INFO] - aiogram.event - Update id=494105778 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:42:20,811 - [INFO] - aiogram.event - Update id=494105778 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:42:23,892 - [INFO] - aiogram.event - Update id=494105779 is handled. Duration 388 ms by bot id=8574907694
+2026-08-11 15:42:23,892 - [INFO] - aiogram.event - Update id=494105779 is handled. Duration 388 ms by bot id=8574907694
+2026-08-11 15:42:25,213 - [INFO] - aiogram.event - Update id=494105780 is handled. Duration 404 ms by bot id=8574907694
+2026-08-11 15:42:25,213 - [INFO] - aiogram.event - Update id=494105780 is handled. Duration 404 ms by bot id=8574907694
+2026-08-11 15:42:34,739 - [INFO] - aiogram.event - Update id=494105781 is handled. Duration 196 ms by bot id=8574907694
+2026-08-11 15:42:34,739 - [INFO] - aiogram.event - Update id=494105781 is handled. Duration 196 ms by bot id=8574907694
+2026-08-11 15:42:37,502 - [INFO] - aiogram.event - Update id=494105782 is handled. Duration 466 ms by bot id=8574907694
+2026-08-11 15:42:37,502 - [INFO] - aiogram.event - Update id=494105782 is handled. Duration 466 ms by bot id=8574907694
+2026-08-11 15:42:38,739 - [INFO] - aiogram.event - Update id=494105783 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 15:42:38,739 - [INFO] - aiogram.event - Update id=494105783 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 15:42:40,888 - [INFO] - aiogram.event - Update id=494105784 is handled. Duration 405 ms by bot id=8574907694
+2026-08-11 15:42:40,888 - [INFO] - aiogram.event - Update id=494105784 is handled. Duration 405 ms by bot id=8574907694
+2026-08-11 15:42:53,807 - [INFO] - aiogram.event - Update id=494105785 is not handled. Duration 10 ms by bot id=8574907694
+2026-08-11 15:42:53,807 - [INFO] - aiogram.event - Update id=494105785 is not handled. Duration 10 ms by bot id=8574907694
+2026-08-11 15:42:58,293 - [INFO] - aiogram.event - Update id=494105786 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:42:58,293 - [INFO] - aiogram.event - Update id=494105786 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:43:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:44:00 CDT)" (scheduled at 2026-08-11 15:43:00-05:00)
+2026-08-11 15:43:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:44:00 CDT)" (scheduled at 2026-08-11 15:43:00-05:00)
+2026-08-11 15:43:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:44:00 CDT)" executed successfully
+2026-08-11 15:43:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:44:00 CDT)" executed successfully
+2026-08-11 15:43:04,130 - [INFO] - aiogram.event - Update id=494105787 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 15:43:04,130 - [INFO] - aiogram.event - Update id=494105787 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 15:43:08,632 - [INFO] - aiogram.event - Update id=494105788 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:43:08,632 - [INFO] - aiogram.event - Update id=494105788 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:43:10,379 - [INFO] - aiogram.event - Update id=494105789 is handled. Duration 413 ms by bot id=8574907694
+2026-08-11 15:43:10,379 - [INFO] - aiogram.event - Update id=494105789 is handled. Duration 413 ms by bot id=8574907694
+2026-08-11 15:43:12,195 - [INFO] - aiogram.event - Update id=494105790 is handled. Duration 491 ms by bot id=8574907694
+2026-08-11 15:43:12,195 - [INFO] - aiogram.event - Update id=494105790 is handled. Duration 491 ms by bot id=8574907694
+2026-08-11 15:43:16,004 - [INFO] - aiogram.event - Update id=494105791 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:43:16,004 - [INFO] - aiogram.event - Update id=494105791 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:43:17,498 - [INFO] - aiogram.event - Update id=494105792 is handled. Duration 264 ms by bot id=8574907694
+2026-08-11 15:43:17,498 - [INFO] - aiogram.event - Update id=494105792 is handled. Duration 264 ms by bot id=8574907694
+2026-08-11 15:43:18,982 - [INFO] - aiogram.event - Update id=494105793 is handled. Duration 418 ms by bot id=8574907694
+2026-08-11 15:43:18,982 - [INFO] - aiogram.event - Update id=494105793 is handled. Duration 418 ms by bot id=8574907694
+2026-08-11 15:43:24,095 - [INFO] - aiogram.event - Update id=494105794 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 15:43:24,095 - [INFO] - aiogram.event - Update id=494105794 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 15:43:26,007 - [INFO] - aiogram.event - Update id=494105795 is handled. Duration 479 ms by bot id=8574907694
+2026-08-11 15:43:26,007 - [INFO] - aiogram.event - Update id=494105795 is handled. Duration 479 ms by bot id=8574907694
+2026-08-11 15:43:27,269 - [INFO] - aiogram.event - Update id=494105796 is handled. Duration 308 ms by bot id=8574907694
+2026-08-11 15:43:27,269 - [INFO] - aiogram.event - Update id=494105796 is handled. Duration 308 ms by bot id=8574907694
+2026-08-11 15:43:28,906 - [INFO] - aiogram.event - Update id=494105797 is handled. Duration 389 ms by bot id=8574907694
+2026-08-11 15:43:28,906 - [INFO] - aiogram.event - Update id=494105797 is handled. Duration 389 ms by bot id=8574907694
+2026-08-11 15:43:35,853 - [INFO] - aiogram.event - Update id=494105798 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 15:43:35,853 - [INFO] - aiogram.event - Update id=494105798 is handled. Duration 206 ms by bot id=8574907694
+2026-08-11 15:43:37,661 - [INFO] - aiogram.event - Update id=494105799 is handled. Duration 316 ms by bot id=8574907694
+2026-08-11 15:43:37,661 - [INFO] - aiogram.event - Update id=494105799 is handled. Duration 316 ms by bot id=8574907694
+2026-08-11 15:43:56,165 - [INFO] - aiogram.event - Update id=494105800 is handled. Duration 9 ms by bot id=8574907694
+2026-08-11 15:43:56,165 - [INFO] - aiogram.event - Update id=494105800 is handled. Duration 9 ms by bot id=8574907694
+2026-08-11 15:44:00,004 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:45:00 CDT)" (scheduled at 2026-08-11 15:44:00-05:00)
+2026-08-11 15:44:00,004 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:45:00 CDT)" (scheduled at 2026-08-11 15:44:00-05:00)
+2026-08-11 15:44:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:45:00 CDT)" executed successfully
+2026-08-11 15:44:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:45:00 CDT)" executed successfully
+2026-08-11 15:44:02,394 - [INFO] - aiogram.event - Update id=494105801 is handled. Duration 198 ms by bot id=8574907694
+2026-08-11 15:44:02,394 - [INFO] - aiogram.event - Update id=494105801 is handled. Duration 198 ms by bot id=8574907694
+2026-08-11 15:44:07,744 - [INFO] - aiogram.event - Update id=494105802 is handled. Duration 430 ms by bot id=8574907694
+2026-08-11 15:44:07,744 - [INFO] - aiogram.event - Update id=494105802 is handled. Duration 430 ms by bot id=8574907694
+2026-08-11 15:44:09,253 - [INFO] - aiogram.event - Update id=494105803 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:44:09,253 - [INFO] - aiogram.event - Update id=494105803 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:44:10,524 - [INFO] - aiogram.event - Update id=494105804 is handled. Duration 450 ms by bot id=8574907694
+2026-08-11 15:44:10,524 - [INFO] - aiogram.event - Update id=494105804 is handled. Duration 450 ms by bot id=8574907694
+2026-08-11 15:44:18,287 - [INFO] - aiogram.event - Update id=494105805 is handled. Duration 174 ms by bot id=8574907694
+2026-08-11 15:44:18,287 - [INFO] - aiogram.event - Update id=494105805 is handled. Duration 174 ms by bot id=8574907694
+2026-08-11 15:44:20,630 - [INFO] - aiogram.event - Update id=494105806 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:44:20,630 - [INFO] - aiogram.event - Update id=494105806 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:44:23,385 - [INFO] - aiogram.event - Update id=494105807 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:44:23,385 - [INFO] - aiogram.event - Update id=494105807 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:44:26,249 - [INFO] - aiogram.event - Update id=494105808 is handled. Duration 305 ms by bot id=8574907694
+2026-08-11 15:44:26,249 - [INFO] - aiogram.event - Update id=494105808 is handled. Duration 305 ms by bot id=8574907694
+2026-08-11 15:44:27,686 - [INFO] - aiogram.event - Update id=494105809 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 15:44:27,686 - [INFO] - aiogram.event - Update id=494105809 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 15:44:29,243 - [INFO] - aiogram.event - Update id=494105810 is handled. Duration 426 ms by bot id=8574907694
+2026-08-11 15:44:29,243 - [INFO] - aiogram.event - Update id=494105810 is handled. Duration 426 ms by bot id=8574907694
+2026-08-11 15:44:32,920 - [INFO] - aiogram.event - Update id=494105811 is handled. Duration 413 ms by bot id=8574907694
+2026-08-11 15:44:32,920 - [INFO] - aiogram.event - Update id=494105811 is handled. Duration 413 ms by bot id=8574907694
+2026-08-11 15:44:37,533 - [INFO] - aiogram.event - Update id=494105812 is handled. Duration 338 ms by bot id=8574907694
+2026-08-11 15:44:37,533 - [INFO] - aiogram.event - Update id=494105812 is handled. Duration 338 ms by bot id=8574907694
+2026-08-11 15:44:49,804 - [INFO] - aiogram.event - Update id=494105813 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 15:44:49,804 - [INFO] - aiogram.event - Update id=494105813 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 15:44:52,194 - [INFO] - aiogram.event - Update id=494105814 is handled. Duration 303 ms by bot id=8574907694
+2026-08-11 15:44:52,194 - [INFO] - aiogram.event - Update id=494105814 is handled. Duration 303 ms by bot id=8574907694
+2026-08-11 15:44:59,019 - [INFO] - aiogram.event - Update id=494105815 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:44:59,019 - [INFO] - aiogram.event - Update id=494105815 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:45:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:46:00 CDT)" (scheduled at 2026-08-11 15:45:00-05:00)
+2026-08-11 15:45:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:46:00 CDT)" (scheduled at 2026-08-11 15:45:00-05:00)
+2026-08-11 15:45:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:46:00 CDT)" executed successfully
+2026-08-11 15:45:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:46:00 CDT)" executed successfully
+2026-08-11 15:45:02,092 - [INFO] - aiogram.event - Update id=494105816 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:45:02,092 - [INFO] - aiogram.event - Update id=494105816 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:45:06,431 - [INFO] - aiogram.event - Update id=494105817 is handled. Duration 149 ms by bot id=8574907694
+2026-08-11 15:45:06,431 - [INFO] - aiogram.event - Update id=494105817 is handled. Duration 149 ms by bot id=8574907694
+2026-08-11 15:46:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:47:00 CDT)" (scheduled at 2026-08-11 15:46:00-05:00)
+2026-08-11 15:46:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:47:00 CDT)" (scheduled at 2026-08-11 15:46:00-05:00)
+2026-08-11 15:46:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:47:00 CDT)" executed successfully
+2026-08-11 15:46:00,006 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:47:00 CDT)" executed successfully
+2026-08-11 15:46:25,676 - [INFO] - root - Initializing database...
+2026-08-11 15:46:25,676 - [INFO] - root - Initializing database...
+2026-08-11 15:46:25,691 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:46:25,691 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:46:25,720 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:46:25,720 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:46:25,721 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:46:25,721 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:46:25,722 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:46:25,722 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:46:25,722 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:46:25,722 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:46:27,438 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:46:27,438 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:46:27,439 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:46:27,439 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:46:27,572 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:46:27,572 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:46:27,904 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:46:27,904 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:47:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:48:00 CDT)" (scheduled at 2026-08-11 15:47:00-05:00)
+2026-08-11 15:47:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:48:00 CDT)" (scheduled at 2026-08-11 15:47:00-05:00)
+2026-08-11 15:47:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:48:00 CDT)" executed successfully
+2026-08-11 15:47:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:48:00 CDT)" executed successfully
+2026-08-11 15:47:02,925 - [INFO] - aiogram.event - Update id=494105818 is handled. Duration 190 ms by bot id=8574907694
+2026-08-11 15:47:02,925 - [INFO] - aiogram.event - Update id=494105818 is handled. Duration 190 ms by bot id=8574907694
+2026-08-11 15:48:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:49:00 CDT)" (scheduled at 2026-08-11 15:48:00-05:00)
+2026-08-11 15:48:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:49:00 CDT)" (scheduled at 2026-08-11 15:48:00-05:00)
+2026-08-11 15:48:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:49:00 CDT)" executed successfully
+2026-08-11 15:48:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:49:00 CDT)" executed successfully
+2026-08-11 15:49:00,007 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:50:00 CDT)" (scheduled at 2026-08-11 15:49:00-05:00)
+2026-08-11 15:49:00,007 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:50:00 CDT)" (scheduled at 2026-08-11 15:49:00-05:00)
+2026-08-11 15:49:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:50:00 CDT)" executed successfully
+2026-08-11 15:49:00,016 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:50:00 CDT)" executed successfully
+2026-08-11 15:50:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:51:00 CDT)" (scheduled at 2026-08-11 15:50:00-05:00)
+2026-08-11 15:50:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:51:00 CDT)" (scheduled at 2026-08-11 15:50:00-05:00)
+2026-08-11 15:50:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:51:00 CDT)" executed successfully
+2026-08-11 15:50:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:51:00 CDT)" executed successfully
+2026-08-11 15:50:44,994 - [INFO] - aiogram.event - Update id=494105819 is handled. Duration 263 ms by bot id=8574907694
+2026-08-11 15:50:44,994 - [INFO] - aiogram.event - Update id=494105819 is handled. Duration 263 ms by bot id=8574907694
+2026-08-11 15:50:50,872 - [INFO] - aiogram.event - Update id=494105820 is handled. Duration 389 ms by bot id=8574907694
+2026-08-11 15:50:50,872 - [INFO] - aiogram.event - Update id=494105820 is handled. Duration 389 ms by bot id=8574907694
+2026-08-11 15:50:54,656 - [INFO] - aiogram.event - Update id=494105821 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:50:54,656 - [INFO] - aiogram.event - Update id=494105821 is handled. Duration 410 ms by bot id=8574907694
+2026-08-11 15:50:56,396 - [INFO] - aiogram.event - Update id=494105822 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:50:56,396 - [INFO] - aiogram.event - Update id=494105822 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:50:58,335 - [INFO] - aiogram.event - Update id=494105823 is handled. Duration 300 ms by bot id=8574907694
+2026-08-11 15:50:58,335 - [INFO] - aiogram.event - Update id=494105823 is handled. Duration 300 ms by bot id=8574907694
+2026-08-11 15:51:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:52:00 CDT)" (scheduled at 2026-08-11 15:51:00-05:00)
+2026-08-11 15:51:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:52:00 CDT)" (scheduled at 2026-08-11 15:51:00-05:00)
+2026-08-11 15:51:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:52:00 CDT)" executed successfully
+2026-08-11 15:51:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:52:00 CDT)" executed successfully
+2026-08-11 15:51:07,601 - [INFO] - aiogram.event - Update id=494105824 is handled. Duration 293 ms by bot id=8574907694
+2026-08-11 15:51:07,601 - [INFO] - aiogram.event - Update id=494105824 is handled. Duration 293 ms by bot id=8574907694
+2026-08-11 15:52:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:53:00 CDT)" (scheduled at 2026-08-11 15:52:00-05:00)
+2026-08-11 15:52:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:53:00 CDT)" (scheduled at 2026-08-11 15:52:00-05:00)
+2026-08-11 15:52:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:53:00 CDT)" executed successfully
+2026-08-11 15:52:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:53:00 CDT)" executed successfully
+2026-08-11 15:52:30,094 - [INFO] - root - Initializing database...
+2026-08-11 15:52:30,094 - [INFO] - root - Initializing database...
+2026-08-11 15:52:30,099 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:52:30,099 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:52:30,110 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:52:30,110 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:52:30,110 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:52:30,110 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:52:30,111 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:52:30,111 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:52:30,111 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:52:30,111 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:52:30,581 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:52:30,581 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:52:30,582 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:52:30,582 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:52:30,713 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:52:30,713 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:52:31,073 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:52:31,073 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:53:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:54:00 CDT)" (scheduled at 2026-08-11 15:53:00-05:00)
+2026-08-11 15:53:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:54:00 CDT)" (scheduled at 2026-08-11 15:53:00-05:00)
+2026-08-11 15:53:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:54:00 CDT)" executed successfully
+2026-08-11 15:53:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:54:00 CDT)" executed successfully
+2026-08-11 15:54:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:55:00 CDT)" (scheduled at 2026-08-11 15:54:00-05:00)
+2026-08-11 15:54:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:55:00 CDT)" (scheduled at 2026-08-11 15:54:00-05:00)
+2026-08-11 15:54:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:55:00 CDT)" executed successfully
+2026-08-11 15:54:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:55:00 CDT)" executed successfully
+2026-08-11 15:55:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:56:00 CDT)" (scheduled at 2026-08-11 15:55:00-05:00)
+2026-08-11 15:55:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:56:00 CDT)" (scheduled at 2026-08-11 15:55:00-05:00)
+2026-08-11 15:55:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:56:00 CDT)" executed successfully
+2026-08-11 15:55:00,012 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:56:00 CDT)" executed successfully
+2026-08-11 15:56:01,333 - [INFO] - root - Initializing database...
+2026-08-11 15:56:01,333 - [INFO] - root - Initializing database...
+2026-08-11 15:56:01,341 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:56:01,341 - [INFO] - database.base - Database tables initialized successfully with WAL mode.
+2026-08-11 15:56:01,356 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:56:01,356 - [INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-11 15:56:01,357 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:56:01,357 - [INFO] - apscheduler.scheduler - Added job "check_and_send_daily_reminders" to job store "default"
+2026-08-11 15:56:01,357 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:56:01,357 - [INFO] - apscheduler.scheduler - Scheduler started
+2026-08-11 15:56:01,357 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:56:01,357 - [INFO] - services.scheduler - APScheduler started successfully.
+2026-08-11 15:56:01,889 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:56:01,889 - [INFO] - root - Bot started successfully! Username: @todoist_robot (ID: 8574907694)
+2026-08-11 15:56:01,890 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:56:01,890 - [INFO] - aiogram.dispatcher - Start polling
+2026-08-11 15:56:02,061 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:56:02,061 - [INFO] - aiogram.dispatcher - Run polling for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 15:56:02,489 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:56:02,489 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 15:56:52,874 - [INFO] - aiogram.event - Update id=494105825 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 15:56:52,874 - [INFO] - aiogram.event - Update id=494105825 is handled. Duration 213 ms by bot id=8574907694
+2026-08-11 15:56:57,671 - [INFO] - aiogram.event - Update id=494105826 is handled. Duration 405 ms by bot id=8574907694
+2026-08-11 15:56:57,671 - [INFO] - aiogram.event - Update id=494105826 is handled. Duration 405 ms by bot id=8574907694
+2026-08-11 15:57:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:58:00 CDT)" (scheduled at 2026-08-11 15:57:00-05:00)
+2026-08-11 15:57:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:58:00 CDT)" (scheduled at 2026-08-11 15:57:00-05:00)
+2026-08-11 15:57:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:58:00 CDT)" executed successfully
+2026-08-11 15:57:00,010 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:58:00 CDT)" executed successfully
+2026-08-11 15:57:04,424 - [INFO] - aiogram.event - Update id=494105827 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:57:04,424 - [INFO] - aiogram.event - Update id=494105827 is handled. Duration 409 ms by bot id=8574907694
+2026-08-11 15:57:07,085 - [INFO] - aiogram.event - Update id=494105828 is handled. Duration 390 ms by bot id=8574907694
+2026-08-11 15:57:07,085 - [INFO] - aiogram.event - Update id=494105828 is handled. Duration 390 ms by bot id=8574907694
+2026-08-11 15:57:17,962 - [INFO] - aiogram.event - Update id=494105829 is handled. Duration 163 ms by bot id=8574907694
+2026-08-11 15:57:17,962 - [INFO] - aiogram.event - Update id=494105829 is handled. Duration 163 ms by bot id=8574907694
+2026-08-11 15:57:25,313 - [INFO] - aiogram.event - Update id=494105830 is handled. Duration 444 ms by bot id=8574907694
+2026-08-11 15:57:25,313 - [INFO] - aiogram.event - Update id=494105830 is handled. Duration 444 ms by bot id=8574907694
+2026-08-11 15:57:26,538 - [INFO] - aiogram.event - Update id=494105831 is handled. Duration 302 ms by bot id=8574907694
+2026-08-11 15:57:26,538 - [INFO] - aiogram.event - Update id=494105831 is handled. Duration 302 ms by bot id=8574907694
+2026-08-11 15:57:30,842 - [INFO] - aiogram.event - Update id=494105832 is handled. Duration 195 ms by bot id=8574907694
+2026-08-11 15:57:30,842 - [INFO] - aiogram.event - Update id=494105832 is handled. Duration 195 ms by bot id=8574907694
+2026-08-11 15:57:33,266 - [INFO] - aiogram.event - Update id=494105833 is handled. Duration 374 ms by bot id=8574907694
+2026-08-11 15:57:33,266 - [INFO] - aiogram.event - Update id=494105833 is handled. Duration 374 ms by bot id=8574907694
+2026-08-11 15:57:35,245 - [INFO] - aiogram.event - Update id=494105834 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:57:35,245 - [INFO] - aiogram.event - Update id=494105834 is handled. Duration 408 ms by bot id=8574907694
+2026-08-11 15:57:40,880 - [INFO] - aiogram.event - Update id=494105835 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 15:57:40,880 - [INFO] - aiogram.event - Update id=494105835 is handled. Duration 202 ms by bot id=8574907694
+2026-08-11 15:57:43,958 - [INFO] - aiogram.event - Update id=494105836 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 15:57:43,958 - [INFO] - aiogram.event - Update id=494105836 is handled. Duration 415 ms by bot id=8574907694
+2026-08-11 15:58:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:59:00 CDT)" (scheduled at 2026-08-11 15:58:00-05:00)
+2026-08-11 15:58:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:59:00 CDT)" (scheduled at 2026-08-11 15:58:00-05:00)
+2026-08-11 15:58:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:59:00 CDT)" executed successfully
+2026-08-11 15:58:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 15:59:00 CDT)" executed successfully
+2026-08-11 15:58:14,278 - [INFO] - aiogram.event - Update id=494105837 is handled. Duration 217 ms by bot id=8574907694
+2026-08-11 15:58:14,278 - [INFO] - aiogram.event - Update id=494105837 is handled. Duration 217 ms by bot id=8574907694
+2026-08-11 15:58:18,152 - [INFO] - aiogram.event - Update id=494105838 is handled. Duration 459 ms by bot id=8574907694
+2026-08-11 15:58:18,152 - [INFO] - aiogram.event - Update id=494105838 is handled. Duration 459 ms by bot id=8574907694
+2026-08-11 15:59:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:00:00 CDT)" (scheduled at 2026-08-11 15:59:00-05:00)
+2026-08-11 15:59:00,003 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:00:00 CDT)" (scheduled at 2026-08-11 15:59:00-05:00)
+2026-08-11 15:59:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:00:00 CDT)" executed successfully
+2026-08-11 15:59:00,009 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:00:00 CDT)" executed successfully
+2026-08-11 16:00:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:01:00 CDT)" (scheduled at 2026-08-11 16:00:00-05:00)
+2026-08-11 16:00:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:01:00 CDT)" (scheduled at 2026-08-11 16:00:00-05:00)
+2026-08-11 16:00:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:01:00 CDT)" executed successfully
+2026-08-11 16:00:00,008 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:01:00 CDT)" executed successfully
+2026-08-11 16:00:29,489 - [INFO] - aiogram.event - Update id=494105839 is handled. Duration 162 ms by bot id=8574907694
+2026-08-11 16:00:29,489 - [INFO] - aiogram.event - Update id=494105839 is handled. Duration 162 ms by bot id=8574907694
+2026-08-11 16:01:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:02:00 CDT)" (scheduled at 2026-08-11 16:01:00-05:00)
+2026-08-11 16:01:00,009 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:02:00 CDT)" (scheduled at 2026-08-11 16:01:00-05:00)
+2026-08-11 16:01:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:02:00 CDT)" executed successfully
+2026-08-11 16:01:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:02:00 CDT)" executed successfully
+2026-08-11 16:02:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:03:00 CDT)" (scheduled at 2026-08-11 16:02:00-05:00)
+2026-08-11 16:02:00,006 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:03:00 CDT)" (scheduled at 2026-08-11 16:02:00-05:00)
+2026-08-11 16:02:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:03:00 CDT)" executed successfully
+2026-08-11 16:02:00,011 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:03:00 CDT)" executed successfully
+2026-08-11 16:02:11,830 - [INFO] - aiogram.event - Update id=494105840 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 16:02:11,830 - [INFO] - aiogram.event - Update id=494105840 is handled. Duration 204 ms by bot id=8574907694
+2026-08-11 16:02:13,932 - [INFO] - aiogram.event - Update id=494105841 is handled. Duration 361 ms by bot id=8574907694
+2026-08-11 16:02:13,932 - [INFO] - aiogram.event - Update id=494105841 is handled. Duration 361 ms by bot id=8574907694
+2026-08-11 16:02:19,819 - [INFO] - aiogram.event - Update id=494105842 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 16:02:19,819 - [INFO] - aiogram.event - Update id=494105842 is handled. Duration 406 ms by bot id=8574907694
+2026-08-11 16:02:25,868 - [INFO] - aiogram.event - Update id=494105843 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 16:02:25,868 - [INFO] - aiogram.event - Update id=494105843 is handled. Duration 392 ms by bot id=8574907694
+2026-08-11 16:03:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:04:00 CDT)" (scheduled at 2026-08-11 16:03:00-05:00)
+2026-08-11 16:03:00,002 - [INFO] - apscheduler.executors.default - Running job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:04:00 CDT)" (scheduled at 2026-08-11 16:03:00-05:00)
+2026-08-11 16:03:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:04:00 CDT)" executed successfully
+2026-08-11 16:03:00,005 - [INFO] - apscheduler.executors.default - Job "check_and_send_daily_reminders (trigger: cron[minute='*'], next run at: 2026-08-11 16:04:00 CDT)" executed successfully
+2026-08-11 16:03:18,157 - [WARNING] - aiogram.dispatcher - Received SIGTERM signal
+2026-08-11 16:03:18,157 - [WARNING] - aiogram.dispatcher - Received SIGTERM signal
+2026-08-11 16:03:18,158 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 16:03:18,158 - [INFO] - aiogram.dispatcher - Polling stopped for bot @todoist_robot id=8574907694 - 'Vazifalar uchun'
+2026-08-11 16:03:18,158 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 16:03:18,158 - [INFO] - aiogram.dispatcher - Polling stopped
+2026-08-11 16:03:18,158 - [INFO] - root - Shutting down bot...
+2026-08-11 16:03:18,158 - [INFO] - root - Shutting down bot...
+2026-08-11 16:03:18,312 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 16:03:18,312 - [INFO] - root - Broadcast done. Sent: 1, Skipped (blocked/deleted): 0
+2026-08-11 16:03:18,313 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 16:03:18,313 - [INFO] - apscheduler.scheduler - Scheduler has been shut down
+2026-08-11 16:03:18,564 - [INFO] - root - Bot stopped gracefully.
+2026-08-11 16:03:18,564 - [INFO] - root - Bot stopped gracefully.
