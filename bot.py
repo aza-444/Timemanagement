@@ -1,9 +1,15 @@
 import asyncio
 import logging
+import platform
 import signal
 import sys
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
+
+# ── Windows Event Loop Fix ───────────────────────────────────────────────────
+# Windows requires ProactorEventLoop for aiogram + aiosqlite to work correctly.
+if platform.system() == "Windows":
+    asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
 from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
@@ -129,13 +135,15 @@ async def main():
     dp.shutdown.register(on_shutdown)
 
     # Graceful shutdown signals
-    loop = asyncio.get_running_loop()
-    for sig in (signal.SIGINT, signal.SIGTERM):
-        try:
-            loop.add_signal_handler(sig, lambda: asyncio.create_task(dp.stop_polling()))
-        except NotImplementedError:
-            # Windows platform compatibility
-            pass
+    # Windows does not support add_signal_handler (only Linux/macOS),
+    # so we skip it on Windows — KeyboardInterrupt will still work.
+    if platform.system() != "Windows":
+        loop = asyncio.get_running_loop()
+        for sig in (signal.SIGINT, signal.SIGTERM):
+            try:
+                loop.add_signal_handler(sig, lambda: asyncio.create_task(dp.stop_polling()))
+            except NotImplementedError:
+                pass
 
     try:
         await dp.start_polling(bot, allowed_updates=dp.resolve_used_update_types())
